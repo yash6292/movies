@@ -1,1527 +1,1503 @@
 {
-"status": "success",
-"movie_data": {
-"hindi": {
-"actor_img": [
-{
-"actor_name": "Amitabh",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Salman Khan",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Shah Rukh",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Akshay Kumar",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Aamir Khan",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Ajay Devgn",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Sanjay Dutt",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-}
-],
-"Amitabh": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "4",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "5",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "6",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Salman Khan": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"ShahRukh Khan": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Akshay": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Aamir": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Ajay": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Sanjay": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-]
-},
-"gujrati": {
-"actor_img": [
-{
-"actor_name": "New Gujrati Movies",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Old Gujrati Movies",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Gujrati Natak",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Gujrati Dayro",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Gujrati song",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Gujrati Joks",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Gujrati Stories",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-}
-],
-"New Gujrati Movies": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Old Gujrati Movies": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Gujrati Natak": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Gujrati Dayro": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Gujrati Song": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Gujrati Joks": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Gujrati Stories": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-]
-},
-"south": {
-"actor_img": [
-{
-"actor_name": "Allu Arjun",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Mahesh Babu",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Prabhas",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Jr. NTR",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Rajnikanth",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Vijay Deverakonda",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Ram Charan",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-}
-],
-"Allu Arjun": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Mahesh Babu": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Prabhas": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Jr. NTR": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Rajnikanth": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Vijay Deverakonda": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Ram Charan": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-]
-},
-"bhojpuri": {
-"actor_img": [
-{
-"actor_name": "Ravi Kishan",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Pawan Singh",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Dineshlal Yadav",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Keshrilal Yadav",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Manoj Tiwari",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Monalisa",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Anjana Singh",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-}
-],
-"Ravi Kishan": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Pawan Singh": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Dineshlal Yadav": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Keshrilal Yadav": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Manoj Tiwari": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Monalisa": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Anjana Singh": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-]
-},
-"marathi": {
-"actor_img": [
-{
-"actor_name": "New and Old",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Ashok Saraf",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Jayshree Gadkar",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Makarand Anaspurr",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Laxmikant Berde",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Nilu Phulle",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Sachin Plgaonkar",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-}
-],
-"New and Old": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Ashok Saraf": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Jayshree Gadkar": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Makarand Anaspurr": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Laxmikant Berde": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Nilu Phulle": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Anjana Singh": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-]
-},
-"english": {
-"actor_img": [
-{
-"actor_name": "All movoies",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "2015 movies",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "2016 movies",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "2017 movies",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "2018 movies",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "2019 movies",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "2020 movies",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-}
-],
-"All movoies": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"2015 movies": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"2016 movies": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"2017 movies": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"2018 movies": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"2019 movies": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"2020 movies": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-]
-},
-"web series": {
-"actor_img": [
-{
-"actor_name": "Adulting",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "2BY3",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Big Borrow Steal",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Boys will Be Boys",
-"actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-},
-{
-"actor_name": "Bin Bulaye Mehmaan - S1",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Bin Bulaye Mehmaan - S2",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-},
-{
-"actor_name": "Bin Bulaye Mehmaan - S3",
-"actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-}
-],
-"Adulting": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"2BY3": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Big Borrow Steal": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Boys will Be Boys": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"Bin Bulaye Mehmaan - S1": [
-{
-"id": "1",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "2",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-},
-{
-"id": "3",
-"movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "tPXYWRGNl7s"
-}
-],
-"Bin Bulaye Mehmaan - S2": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-],
-"202 movies": [
-{
-"id": "1",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "2",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-},
-{
-"id": "3",
-"movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-"movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-"thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-"video_id": "KLucs7B8JDA"
-}
-]
-}
-}
+  "status": "success",
+  "movie_data": {
+    "hindi": {
+      "actor_img": [
+        {
+          "actor_name": "Amitabh",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Salman Khan",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Shah Rukh",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Akshay Kumar",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Aamir Khan",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Ajay Devgn",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Sanjay Dutt",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        }
+      ],
+      "Amitabh": [
+        {
+          "id": "1",
+          "movie_img": "https://i.ytimg.com/vi/vB2m1uRF30c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0yvp4Bz1DVm2z6y5Xi7vJ45QaAw",
+          "movie_title": "Sooryavansham",
+          "movie_des": "Sooryavansham – Blockbuster Hindi Film | Amitabh Bachchan, Soundarya | Bollywood Movie | सूर्यवंशम",
+          "thumb_nail_image": "https://i.ytimg.com/vi/vB2m1uRF30c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0yvp4Bz1DVm2z6y5Xi7vJ45QaAw",
+          "video_id": "vB2m1uRF30c"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.ytimg.com/vi/9tRJK3PiUts/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZzsh_vw3-yjC8DF9tUSY9h2P8sA",
+          "movie_title": "Aarakshan (2011)",
+          "movie_des": "Aarakshan (2011) Hindi Full Movie - Amitabh Bachchan | Saif Ali Khan | Deepika Padukone",
+          "thumb_nail_image": "https://i.ytimg.com/vi/9tRJK3PiUts/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZzsh_vw3-yjC8DF9tUSY9h2P8sA",
+          "video_id": "9tRJK3PiUts"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.ytimg.com/vi/mjpYO3a98Bc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk2KohxG8YTNL34-UxUePe_3I_ZQ",
+          "movie_title": "Laawaris",
+          "movie_des": "Laawaris Full Movie Amitabh bachan Laawairs film Laawairs picture",
+          "thumb_nail_image": "https://i.ytimg.com/vi/mjpYO3a98Bc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk2KohxG8YTNL34-UxUePe_3I_ZQ",
+          "video_id": "mjpYO3a98Bc"
+        }
+      ],
+      "Salman Khan": [
+        {
+          "id": "1",
+          "movie_img": "https://i.ytimg.com/vi/tPXYWRGNl7s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABVYQdqZggapfOLZXgJl-Zz4WrnA",
+          "movie_title": "Ready",
+          "movie_des": "Ready (Full Movie) Salman Khan, Asin | Anees Bazmee, Pritam, DSP | Bhushan Kumar",
+          "thumb_nail_image": "https://i.ytimg.com/vi/tPXYWRGNl7s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABVYQdqZggapfOLZXgJl-Zz4WrnA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.ytimg.com/an_webp/Wh19leJ36TM/mqdefault_6s.webp?du=3000&sqp=CJDnpqEG&rs=AOn4CLBtP08gfKrke4wtnYmC7UcQaJH22w",
+          "movie_title": "WANTED 2009",
+          "movie_des": "WANTED 2009 - Salman Khan",
+          "thumb_nail_image": "https://i.ytimg.com/an_webp/Wh19leJ36TM/mqdefault_6s.webp?du=3000&sqp=CJDnpqEG&rs=AOn4CLBtP08gfKrke4wtnYmC7UcQaJH22w",
+          "video_id": "Wh19leJ36TM"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.ytimg.com/vi/tPXYWRGNl7s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABVYQdqZggapfOLZXgJl-Zz4WrnA",
+          "movie_title": "Ready",
+          "movie_des": "Ready (Full Movie) Salman Khan, Asin | Anees Bazmee, Pritam, DSP | Bhushan Kumar",
+          "thumb_nail_image": "https://i.ytimg.com/vi/tPXYWRGNl7s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABVYQdqZggapfOLZXgJl-Zz4WrnA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "ShahRukh Khan": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Akshay": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Aamir": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Ajay": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Sanjay": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ]
+    },
+    "gujrati": {
+      "actor_img": [
+        {
+          "actor_name": "New Gujrati Movies",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Old Gujrati Movies",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Gujrati Natak",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Gujrati Dayro",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Gujrati song",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Gujrati Joks",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Gujrati Stories",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        }
+      ],
+      "New Gujrati Movies": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Old Gujrati Movies": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Gujrati Natak": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Gujrati Dayro": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Gujrati Song": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Gujrati Joks": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Gujrati Stories": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ]
+    },
+    "south": {
+      "actor_img": [
+        {
+          "actor_name": "Allu Arjun",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Mahesh Babu",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Prabhas",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Jr. NTR",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Rajnikanth",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Vijay Deverakonda",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Ram Charan",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        }
+      ],
+      "Allu Arjun": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Mahesh Babu": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Prabhas": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Jr. NTR": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Rajnikanth": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Vijay Deverakonda": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Ram Charan": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ]
+    },
+    "bhojpuri": {
+      "actor_img": [
+        {
+          "actor_name": "Ravi Kishan",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Pawan Singh",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Dineshlal Yadav",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Keshrilal Yadav",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Manoj Tiwari",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Monalisa",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Anjana Singh",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        }
+      ],
+      "Ravi Kishan": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Pawan Singh": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Dineshlal Yadav": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Keshrilal Yadav": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Manoj Tiwari": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Monalisa": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Anjana Singh": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ]
+    },
+    "marathi": {
+      "actor_img": [
+        {
+          "actor_name": "New and Old",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Ashok Saraf",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Jayshree Gadkar",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Makarand Anaspurr",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Laxmikant Berde",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Nilu Phulle",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Sachin Plgaonkar",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        }
+      ],
+      "New and Old": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Ashok Saraf": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Jayshree Gadkar": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Makarand Anaspurr": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Laxmikant Berde": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Nilu Phulle": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Anjana Singh": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ]
+    },
+    "english": {
+      "actor_img": [
+        {
+          "actor_name": "All movoies",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "2015 movies",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "2016 movies",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "2017 movies",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "2018 movies",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "2019 movies",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "2020 movies",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        }
+      ],
+      "All movoies": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "2015 movies": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "2016 movies": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "2017 movies": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "2018 movies": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "2019 movies": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "2020 movies": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ]
+    },
+    "web series": {
+      "actor_img": [
+        {
+          "actor_name": "Adulting",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "2BY3",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Big Borrow Steal",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Boys will Be Boys",
+          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
+        },
+        {
+          "actor_name": "Bin Bulaye Mehmaan - S1",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Bin Bulaye Mehmaan - S2",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        },
+        {
+          "actor_name": "Bin Bulaye Mehmaan - S3",
+          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
+        }
+      ],
+      "Adulting": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "2BY3": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Big Borrow Steal": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Boys will Be Boys": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Bin Bulaye Mehmaan - S1": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Bin Bulaye Mehmaan - S2": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "202 movies": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ]
+    }
+  }
 }
