@@ -1,7 +1,7 @@
 {
     "status": "success",
     "data": {
-        "adsClickLimit": "3",
+        "adsClickLimit": "2",
         "game_title": "All HD Movies: Watch Online",
         "game_url": "https://play.google.com/store/apps/details?id=com.movies.allhdmovies",
         "game_version": "1.0.1",
@@ -27,8 +27,8 @@
         "banner_flag10": false,
         "isBannerShow1": true,
         "isBannerShow2": true,
-        "isBannerShow3": false,
-        "isBannerShow4": false,
+        "isBannerShow3": true,
+        "isBannerShow4": true,
         "isBannerShow5": true,
         "isBannerShow6": true,
         "isBannerShow7": true,
@@ -70,28 +70,28 @@
     },
     "ads_data": {
         "home_page": {
-            "app_url": "https://play.google.com/store/apps/details?id=com.ringtone.mahadevringtone",
-            "img_url": "https://play-lh.googleusercontent.com/JO9DO5q0juBiAWT-G7K80XtpMsQInbpZxK-pzCw_awlmT-gIScy83Bp8TmgHTNQJiX8=w240-h480-rw",
-            "app_name": "Mahadev Ringtones शिव रिंगटोन",
-            "sub_title": "Install this Mahadev Ringtones शिव रिंगटोन"
+            "app_url": "https://play.google.com/store/apps/details?id=com.games.all_games_in_one_game",
+            "img_url": "https://play-lh.googleusercontent.com/euw3G79LO7SWEmJGJofmoE1FCcPB0pf1EoAyu_AGCZU9Nx9W1TL4Nk6fXRHdYyyfBw=w240-h480-rw",
+            "app_name": "All Games: All In One Game App",
+            "sub_title": "Play all games in one game"
         },
         "cat_page": {
-            "app_url": "https://play.google.com/store/apps/details?id=com.ringtone.mahadevringtone",
-            "img_url": "https://play-lh.googleusercontent.com/JO9DO5q0juBiAWT-G7K80XtpMsQInbpZxK-pzCw_awlmT-gIScy83Bp8TmgHTNQJiX8=w240-h480-rw",
-            "app_name": "Mahadev Ringtones शिव रिंगटोन",
-            "sub_title": "Install this Mahadev Ringtones शिव रिंगटोन"
+            "app_url": "https://play.google.com/store/apps/details?id=com.games.all_games_in_one_game",
+            "img_url": "https://play-lh.googleusercontent.com/euw3G79LO7SWEmJGJofmoE1FCcPB0pf1EoAyu_AGCZU9Nx9W1TL4Nk6fXRHdYyyfBw=w240-h480-rw",
+            "app_name": "All Games: All In One Game App",
+            "sub_title": "Play all games in one game"
         },
         "game_page": {
-            "app_url": "https://play.google.com/store/apps/details?id=com.ringtone.mahadevringtone",
-            "img_url": "https://play-lh.googleusercontent.com/JO9DO5q0juBiAWT-G7K80XtpMsQInbpZxK-pzCw_awlmT-gIScy83Bp8TmgHTNQJiX8=w240-h480-rw",
-            "app_name": "Mahadev Ringtones शिव रिंगटोन",
-            "sub_title": "Install this Mahadev Ringtones शिव रिंगटोन"
+            "app_url": "https://play.google.com/store/apps/details?id=com.games.all_games_in_one_game",
+            "img_url": "https://play-lh.googleusercontent.com/euw3G79LO7SWEmJGJofmoE1FCcPB0pf1EoAyu_AGCZU9Nx9W1TL4Nk6fXRHdYyyfBw=w240-h480-rw",
+            "app_name": "All Games: All In One Game App",
+            "sub_title": "Play all games in one game"
         },
         "setting_page": {
-            "app_url": "https://play.google.com/store/apps/details?id=com.ringtone.mahadevringtone",
-            "img_url": "https://play-lh.googleusercontent.com/JO9DO5q0juBiAWT-G7K80XtpMsQInbpZxK-pzCw_awlmT-gIScy83Bp8TmgHTNQJiX8=w240-h480-rw",
-            "app_name": "Mahadev Ringtones शिव रिंगटोन",
-            "sub_title": "Install this Mahadev Ringtones शिव रिंगटोन"
+            "app_url": "https://play.google.com/store/apps/details?id=com.games.all_games_in_one_game",
+            "img_url": "https://play-lh.googleusercontent.com/euw3G79LO7SWEmJGJofmoE1FCcPB0pf1EoAyu_AGCZU9Nx9W1TL4Nk6fXRHdYyyfBw=w240-h480-rw",
+            "app_name": "All Games: All In One Game App",
+            "sub_title": "Play all games in one game"
         }
     }
 }
