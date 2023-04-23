@@ -4,12 +4,6 @@
     "hindi": {
       "actor_img": [
         {
-          "actor_name": "Amitabh",{
-  "status": "success",
-  "movie_data": {
-    "hindi": {
-      "actor_img": [
-        {
           "actor_name": "Amitabh",
           "actor_img": "https://cdn.britannica.com/12/215912-050-02257657/Indian-actor-Amitabh-Bachchan-2013.jpg"
         },
@@ -1112,7 +1106,8 @@
           "movie_des": "BIN KAMACHA NAVRA - Full Length Marathi Comedy Movie HD | Ashok Saraf, Ranjana Deshmukh, Nilu Phule",
           "thumb_nail_image": "https://i.ytimg.com/vi/i7PSa6M2nFE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz4m7b0yrxAF7LohpqbaaVB3SPRQ",
           "video_id": "i7PSa6M2nFE"
-        },{
+        },
+        {
           "id": "6",
           "movie_img": "https://m.media-amazon.com/images/M/MV5BZmRiNjBmZDUtMjc5YS00Mzk0LWEwNWYtYzkwMmYyNmExMzYxXkEyXkFqcGdeQXVyMTgwMjgwMjM@._V1_.jpg",
           "movie_title": "अदला बदली",
@@ -1387,7 +1382,7 @@
         {
           "id": "3",
           "movie_img": "https://m.media-amazon.com/images/M/MV5BMTA3MDQzNTQyNTZeQTJeQWpwZ15BbWU4MDk4MDU1Nzcx._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "Stray" ,
+          "movie_title": "Stray",
           "movie_des": "Stray (2016) | Thriller Movie | Serial Killer Movie | Full Movie",
           "thumb_nail_image": "https://i.ytimg.com/vi/Lcqh25yLP7A/maxresdefault.jpg",
           "video_id": "Lcqh25yLP7A"
@@ -1419,575 +1414,7 @@
           "video_id": "oUNsToD3jrA"
         }
       ],
-   "2018 movies": [
-     {
-       "id": "1",
-       "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-       "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-       "video_id": "tPXYWRGNl7s"
-     },
-     {
-       "id": "2",
-       "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-       "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-       "video_id": "tPXYWRGNl7s"
-     },
-     {
-       "id": "3",
-       "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-       "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-       "video_id": "tPXYWRGNl7s"
-     }
-   ],
-   "2019 movies": [
-     {
-       "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ],
-       "2020 movies": [
-         {
-           "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ]
-     },
-     "web series": {
-       "actor_img": [
-         {
-           "actor_name": "Adulting",
-           "actor_img": "https://production.listennotes.com/podcasts/web-series-music/i-got-a-plan-whip-it-shake-au15zwr9QS6-uGAlFkPhBI-.1400x1400.jpg"
-         },
-         {
-           "actor_name": "2BY3",
-           "actor_img": "https://m.media-amazon.com/images/M/MV5BMzdlODRmZTktZDJhYy00MjZmLWFmMmQtYzg4NWJmZjgxNzk1XkEyXkFqcGdeQXVyMTAzNTQ5NzQ0._V1_FMjpg_UX1000_.jpg"
-         },
-         {
-           "actor_name": "Big Borrow Steal",
-           "actor_img": "https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2013/03/20/beg.jpg"
-         },
-         {
-           "actor_name": "Boys will Be Boys",
-           "actor_img": "https://m.media-amazon.com/images/M/MV5BNGU2ZDVkZWMtYjI5Zi00NjQ0LTgwNTktOTM5ZjE3MTY5MDFjXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_.jpg"
-         },
-         {
-           "actor_name": "Bin Bulaye Mehmaan - S1",
-           "actor_img": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/bin%20bulaye%20mehmaan-1675940235120.jpg"
-         },
-         {
-           "actor_name": "Bin Bulaye Mehmaan - S2",
-           "actor_img": "https://indianfilmhistory.com/admin_panel_new_dev/media1/files_i/15577216805539vhqmeyw8g.jpeg"
-         },
-         {
-           "actor_name": "Bin Bulaye Mehmaan - S3",
-           "actor_img": "https://i.ytimg.com/vi/B6bE_ijPyoU/maxresdefault.jpg"
-         }
-       ],
-       "Adulting": [
-         {
-           "id": "1",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         }
-       ],
-       "2BY3": [
-         {
-           "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ],
-       "Big Borrow Steal": [
-         {
-           "id": "1",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         }
-       ],
-       "Boys will Be Boys": [
-         {
-           "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ],
-       "Bin Bulaye Mehmaan - S1": [
-         {
-           "id": "1",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         }
-       ],
-       "Bin Bulaye Mehmaan - S2": [
-         {
-           "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ],
-       "202 movies": [
-         {
-           "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ]
-    }
-  }
-}
-          "actor_img": "https://cdn.britannica.com/12/215912-050-02257657/Indian-actor-Amitabh-Bachchan-2013.jpg"
-        },
-        {
-          "actor_name": "Salman Khan",
-          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-        },
-        {
-          "actor_name": "Shah Rukh",
-          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-        },
-        {
-          "actor_name": "Akshay Kumar",
-          "actor_img": "https://flxt.tmsimg.com/assets/90028_v9_bb.jpg"
-        },
-        {
-          "actor_name": "Aamir Khan",
-          "actor_img": "https://cdn.britannica.com/25/162425-050-B767198B/Aamir-Khan.jpg"
-        },
-        {
-          "actor_name": "Ajay Devgn",
-          "actor_img": "https://psmind.in/wp-content/uploads/2023/02/Ajay-Devgan-Net-Worth-2023-1.jpg"
-        },
-        {
-          "actor_name": "Sanjay Dutt",
-          "actor_img": "https://static.javatpoint.com/biography/images/sanjay-dutt.jpg"
-        }
-      ],
-      "Amitabh": [
-        {
-          "id": "1",
-          "movie_img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Sooryavansham.jpg/220px-Sooryavansham.jpg",
-          "movie_title": "Sooryavansham",
-          "movie_des": "Sooryavansham – Blockbuster Hindi Film | Amitabh Bachchan, Soundarya | Bollywood Movie | सूर्यवंशम",
-          "thumb_nail_image": "https://i.ytimg.com/vi/vB2m1uRF30c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0yvp4Bz1DVm2z6y5Xi7vJ45QaAw",
-          "video_id": "vB2m1uRF30c"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BZGFhM2ZmYWMtYmZmNS00NThlLTk5ZmEtYjg4NDNmNGI2NTU5XkEyXkFqcGdeQXVyMzQ5MzkwMDY@._V1_.jpg",
-          "movie_title": "Aarakshan (2011)",
-          "movie_des": "Aarakshan (2011) Hindi Full Movie - Amitabh Bachchan | Saif Ali Khan | Deepika Padukone",
-          "thumb_nail_image": "https://i.ytimg.com/vi/9tRJK3PiUts/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZzsh_vw3-yjC8DF9tUSY9h2P8sA",
-          "video_id": "9tRJK3PiUts"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/I/814MlcFPlFL._SY550_.jpg",
-          "movie_title": "Don 1978",
-          "movie_des": "Don 1978 Full Movie | Amitabh Bachchan Blockbuster Movie | Zeenat Aman | 90' Movie | Old Movies",
-          "thumb_nail_image": "https://i.ytimg.com/vi/PCw2KatXIbs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8UmUG4T1-SgEWqh_drj0SSwsUfw",
-          "video_id": "PCw2KatXIbs"
-        }
-      ],
-      "Salman Khan": [
-        {
-          "id": "1",
-          "movie_img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/ready--hindi--et00005934-24-03-2017-15-58-22.jpg",
-          "movie_title": "Ready",
-          "movie_des": "Ready (Full Movie) Salman Khan, Asin | Anees Bazmee, Pritam, DSP | Bhushan Kumar",
-          "thumb_nail_image": "https://i.ytimg.com/vi/tPXYWRGNl7s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABVYQdqZggapfOLZXgJl-Zz4WrnA",
-          "video_id": "tPXYWRGNl7s"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://stat4.bollywoodhungama.in/wp-content/uploads/2016/03/Tere-Naam-306x393.jpg",
-          "movie_title": "TERE NAAM",
-          "movie_des": "TERE NAAM Full Movie (HD) | Salman Khan's Blockbuster Bollywood Romantic Movie | Bhumika Chawla",
-          "thumb_nail_image": "https://i.ytimg.com/vi/q8oetlSoSZg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-O_bEKj-2kfdXzOG9kjSUXfTy4g",
-          "video_id": "q8oetlSoSZg"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://actionott.com/uploads/video_thumb/205.jpg?r=1680958009",
-          "movie_title": "Sultan",
-          "movie_des": "Sultan Full Movie HD | Salman Khan | Anushka Sharma | Randeep Hooda | Sultan | Review & Facts",
-          "thumb_nail_image": "https://i.ytimg.com/vi/arkbfIr_Exc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqNd-nH2maB5ziQofg0di4OMNx4Q",
-          "video_id": "a2m0qv8udVQ"
-        }
-      ],
-      "ShahRukh Khan": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMzM1ZDRjZjEtZWRkNS00YzkwLTlkOTAtYmMzMDU3ZTkyYjU1XkEyXkFqcGdeQXVyODU5NTMxODE@._V1_.jpg",
-          "movie_title": "Baadshah",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "KLucs7B8JDA"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Kuch_Kuch_Hota_Hai_poster.jpg/220px-Kuch_Kuch_Hota_Hai_poster.jpg",
-          "movie_title": "Kuch Kuch Hota Hai",
-          "movie_des": "Kuch Kuch Hota Hai Full HD Movie | Bollywood movie | Shah Rukh Khan | Kajol | Rani Mukherjee",
-          "thumb_nail_image": "https://i.ytimg.com/vi/ni1Wpj6iGV8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-qEj7y7IEjXDsQFx95HvCfH4HrQ",
-          "video_id": "ni1Wpj6iGV8"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMTc3OTE1MDAxNV5BMl5BanBnXkFtZTgwNjM1NDk5NTE@._V1_.jpg",
-          "movie_title": "Baazigar",
-          "movie_des": "Baazigar Full Movie | Hindi Movies 2017 Full Movie | Shahrukh Khan Movies | Hindi Movies",
-          "thumb_nail_image": "https://i.ytimg.com/vi/FacrW7dBTco/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmMjuH4livahjpbvKfeL85vN8s-w",
-          "video_id": "FacrW7dBTco"
-        }
-      ],
-      "Akshay": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMWUwOTZlNTItZDA3Zi00MmQ5LWE1MDQtZTA1Yzg3ZGIwNWU5XkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "Bhagam Bhag [2006]",
-          "movie_des": "Bhagam Bhag [2006] Hindi Comedy Full Movie - Akshay Kumar - Govinda - Lara Dutta - Paresh Rawal",
-          "thumb_nail_image": "https://i.ytimg.com/vi/6FqUN9MO0zc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbf-sRCYJJbNm2tr_m5YfqqAjTGQ",
-          "video_id": "6FqUN9MO0zc"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9d9fdbd694393c7355c749e17d6616621893c5072c6548f5f5e9c9073e781f24._RI_V_TTW_.jpg",
-          "movie_title": "Namastey London",
-          "movie_des": "Namastey London Full Movie HD Akshay Kumar & Katrina Kaif Hindi Romantic Bollywood Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "3mnPshEuyrc"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81IuaKbdpjL._RI_.jpg",
-          "movie_title": "Tees Maar Khan",
-          "movie_des": "Tees Maar Khan Full Movie | Akshay Kumar, Katrina Kaif, Akshay Khanna | New Hindi Movies",
-          "thumb_nail_image": "https://i.ytimg.com/vi/yyYfAn9WTRs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSvyrWW2704cGKwYWRGl-XVnqIQw",
-          "video_id": "yyYfAn9WTRs"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://www.filmiclub.com/resource/img/photo/movie/m7609957f090aff2ebe.jpg",
-          "movie_title": "Housefull 3",
-          "movie_des": "Housefull 3 Full Movie | Akshay Kumar, Abhishek Bachchan, Riteish Deshmukh, Jacqueline Fernandez",
-          "thumb_nail_image": "https://i.ytimg.com/vi/UMe0mz7kRr0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKzwaPvAXTrpw_V3bPpeYZ57koIw",
-          "video_id": "UMe0mz7kRr0"
-        }
-      ],
-      "Aamir": [
-        {
-          "id": "1",
-          "movie_img": "https://e1.pxfuel.com/desktop-wallpaper/33/533/desktop-wallpaper-aamir-khan-blog-aamir-khan-ghajini-aamir-khan-film-thumbnail.jpg",
-          "movie_title": "'गजनी' Ghajini",
-          "movie_des": "'गजनी' Ghajini - Full Movie | Aamir Khan, Asin | Action-Packed | A.R. Murugadoss Film",
-          "thumb_nail_image": "https://i.ytimg.com/vi/iBcfguipGk0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7wtRK7VSI0MZiuUQNH4GTNEVlbw",
-          "video_id": "iBcfguipGk0"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://bestoftheyear.in/wp-content/uploads/2016/03/Taare-Zameen-Par.jpg",
-          "movie_title": "Taare Zameen Par",
-          "movie_des": "Taare Zameen Par - Amir Khan Movie - Every child is special - With English Subtitles",
-          "thumb_nail_image": "https://i.ytimg.com/vi/3Z14uE7U0HY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGwrazfKfVQhCMMezs_l74l-YI9Q",
-          "video_id": "3Z14uE7U0HY"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://www.meinstyn.com/wp-content/uploads/2017/01/3-Idiots-Movie-Poster-Aamir-Khan-Kareena-Kapoor-R-Madhavan-Sharman-Joshi-Full-HD-Desktop-Wallpaper.jpg",
-          "movie_title": "3 idiots",
-          "movie_des": "3 idiots full movie in hindi 2009|| Amir khan funny movie 3idiots full movie in hindi dubbed HD1080p",
-          "thumb_nail_image": "https://i.ytimg.com/vi/CJ4vVlvHe00/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVzMoMnfWHMxPW5JSdyUp5g_AMMg",
-          "video_id": "CJ4vVlvHe00"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg",
-          "movie_title": "PK Movie 2014",
-          "movie_des": "PK Movie 2014 - Amir Khan Hit Movie with English subtitles - HD Quality",
-          "thumb_nail_image": "https://i.ytimg.com/vi/0RhDOpSnCqs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6DO95Iw2o-7vaExx-p46xmGrnVQ",
-          "video_id": "0RhDOpSnCqs"
-        }
-      ],
-      "Ajay": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BNDkxMjZiYjYtZjZkZi00M2ZiLWE2MjMtNDc2NDQzZDNmY2M2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
-          "movie_title": "Action Jackson",
-          "movie_des": "Action Jackson Full Movie Review | Ajay Devgn, Sonakshi Sinha, Yami Gautam | Review & Facts",
-          "thumb_nail_image": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg",
-          "video_id": "C0-ADdli6Mg"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMjI1NTAwMjc5OV5BMl5BanBnXkFtZTgwNjc1NDgyNjE@._V1_.jpg",
-          "movie_title": "Vijaypath",
-          "movie_des": "Vijaypath Full Movie |विजयपथ फूल मूवी|1994|Ajay Devgn,Tabu,Gulshan Grover|asif returns",
-          "thumb_nail_image": "https://i.ytimg.com/vi/oFWh2ljwnjU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLADiTuRr3xWMDYsy4zxtnw1E0xg",
-          "video_id": "oFWh2ljwnjU"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-          "movie_title": "Golmaal 3",
-          "movie_des": "Golmaal 3 Full Movie - Ajay Devgan - Kareena Kapoor - Arshad Warsi - Shreyas - Kunal - Tushar",
-          "thumb_nail_image": "https://i.ytimg.com/vi/XaXKh-s9zws/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXsO7hrVdxhin3DKgPzDOcgWr8nA",
-          "video_id": "XaXKh-s9zws"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://upload.wikimedia.org/wikipedia/en/a/ac/Singham_%282011_Hindi_film%29_Theatrical_poster.jpg",
-          "movie_title": "Singham (2011)",
-          "movie_des": "Singham (2011) Full Movie HD | Ajay Devgn | Kajal Aggarwal | Prakash Raj Review & Unknown Facts",
-          "thumb_nail_image": "https://i.ytimg.com/vi/lRM_TCJjTdM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-iim2sAKQDDn0my9KU7A_-aOKHg",
-          "video_id": "ksNCA8Q7gYE"
-        },
-        {
-          "id": "5",
-          "movie_img": "https://upload.wikimedia.org/wikipedia/en/c/c4/De_De_Pyaar_De_Poster.jpg",
-          "movie_title": "De De Pyaar De",
-          "movie_des": "De De Pyaar De (2019) Full Hd Movie | Ajay Devgan, Rakul Preet Singh, Tabu | 1080p HD Review & Facts",
-          "thumb_nail_image": "https://i.ytimg.com/vi/0jhbMlTMc3Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5SRkXK_rrAmt-d-SX3aPI7VVK8g",
-          "video_id": "0jhbMlTMc3Q"
-        }
-      ],
-      "Sanjay": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMGRlMWIyMjgtNzlmNy00YzgyLTgwMDgtODMwMDMwMjczYzY4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
-          "movie_title": "No Problem",
-          "movie_des": "No Problem - Full Comedy Movie | Sanjay Dutt | Suniel Shetty | Anil Kapoor, Paresh Rawal",
-          "thumb_nail_image": "https://i.ytimg.com/vi/BLf4uowEwVI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsPHw1LWHKuJfpeUzJKBRtz8cC9Q",
-          "video_id": "BLf4uowEwVI"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://images.jdmagicbox.com/comp/jd_social/news/2018jul18/image-91850-yys77ees2y.jpg",
-          "movie_title": "Knockout",
-          "movie_des": "Knockout Full Movie - Irrfan Khan - Sanjay Dutt - Kangana Ranaut - New Hindi Full Movies",
-          "thumb_nail_image": "https://i.ytimg.com/vi/8a4WkdnlLmI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDoNvRf4cdszaA1ZalUiM1ojXPmA",
-          "video_id": "8a4WkdnlLmI"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMzJhMjI0ZmYtZTQ3My00YTliLWE4ZmMtMjJmMzcyNDcwYTI5XkEyXkFqcGdeQXVyODk2ODI3MTU@._V1_.jpg",
-          "movie_title": "Munna Bhai MBBS",
-          "movie_des": "Munna Bhai MBBS Full Hindi Movie | Sanjay Dutt, Arshad Warsi | Comedy Hindi Movie Full Facts, Review",
-          "thumb_nail_image": "https://i.ytimg.com/vi/L_wARoxLByc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8qKo-Wcd8slsij70mvccF4uLwvw",
-          "video_id": "L_wARoxLByc"
-        }
-      ]
-    },
-    "gujrati": {
-      "actor_img": [
-        {
-          "actor_name": "New Gujrati Movies",
-          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-        },
-        {
-          "actor_name": "Old Gujrati Movies",
-          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-        },
-        {
-          "actor_name": "Gujrati Natak",
-          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-        },
-        {
-          "actor_name": "Gujrati Dayro",
-          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-        },
-        {
-          "actor_name": "Gujrati song",
-          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-        },
-        {
-          "actor_name": "Gujrati Joks",
-          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-        },
-        {
-          "actor_name": "Gujrati Stories",
-          "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
-        }
-      ],
-      "New Gujrati Movies": [
+      "2018 movies": [
         {
           "id": "1",
           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
@@ -2013,7 +1440,7 @@
           "video_id": "tPXYWRGNl7s"
         }
       ],
-      "Old Gujrati Movies": [
+      "2019 movies": [
         {
           "id": "1",
           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
@@ -2039,111 +1466,7 @@
           "video_id": "KLucs7B8JDA"
         }
       ],
-      "Gujrati Natak": [
-        {
-          "id": "1",
-          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "tPXYWRGNl7s"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "tPXYWRGNl7s"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "tPXYWRGNl7s"
-        }
-      ],
-      "Gujrati Dayro": [
-        {
-          "id": "1",
-          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "KLucs7B8JDA"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "KLucs7B8JDA"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "KLucs7B8JDA"
-        }
-      ],
-      "Gujrati Song": [
-        {
-          "id": "1",
-          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "tPXYWRGNl7s"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "tPXYWRGNl7s"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "tPXYWRGNl7s"
-        }
-      ],
-      "Gujrati Joks": [
-        {
-          "id": "1",
-          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "KLucs7B8JDA"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "KLucs7B8JDA"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "KLucs7B8JDA"
-        }
-      ],
-      "Gujrati Stories": [
+      "2020 movies": [
         {
           "id": "1",
           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
@@ -2170,1250 +1493,219 @@
         }
       ]
     },
-    "south": {
+    "web series": {
       "actor_img": [
         {
-          "actor_name": "Allu Arjun",
-          "actor_img": "https://pro.sgp1.digitaloceanspaces.com/2021/03/DjXcLxmUcAAwvXh.jpeg"
+          "actor_name": "Adulting",
+          "actor_img": "https://production.listennotes.com/podcasts/web-series-music/i-got-a-plan-whip-it-shake-au15zwr9QS6-uGAlFkPhBI-.1400x1400.jpg"
         },
         {
-          "actor_name": "Mahesh Babu",
-          "actor_img": "https://i.pinimg.com/originals/48/23/26/4823263e50ce9cbebfc27f5d3e07a97e.jpg"
+          "actor_name": "2BY3",
+          "actor_img": "https://m.media-amazon.com/images/M/MV5BMzdlODRmZTktZDJhYy00MjZmLWFmMmQtYzg4NWJmZjgxNzk1XkEyXkFqcGdeQXVyMTAzNTQ5NzQ0._V1_FMjpg_UX1000_.jpg"
         },
         {
-          "actor_name": "Prabhas",
-          "actor_img": "https://i.pinimg.com/736x/59/54/06/59540689fd6f4b6fa9bb2ca1b03ef759.jpg"
+          "actor_name": "Big Borrow Steal",
+          "actor_img": "https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2013/03/20/beg.jpg"
         },
         {
-          "actor_name": "Jr. NTR",
-          "actor_img": "https://i.pinimg.com/736x/88/6a/a8/886aa85be3be9345a564048086c673dc.jpg"
+          "actor_name": "Boys will Be Boys",
+          "actor_img": "https://m.media-amazon.com/images/M/MV5BNGU2ZDVkZWMtYjI5Zi00NjQ0LTgwNTktOTM5ZjE3MTY5MDFjXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_.jpg"
         },
         {
-          "actor_name": "Rajnikanth",
-          "actor_img": "https://e0.pxfuel.com/wallpapers/316/212/desktop-wallpaper-rajinikanth-group-rajnikanth-thumbnail.jpg"
+          "actor_name": "Bin Bulaye Mehmaan - S1",
+          "actor_img": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/bin%20bulaye%20mehmaan-1675940235120.jpg"
         },
         {
-          "actor_name": "Vijay Deverakonda",
-          "actor_img": "https://tailoringinhindi.com/wp-content/uploads/2022/09/Hairstyle-Vijay-Devarakonda-Taxiwala.jpg"
+          "actor_name": "Bin Bulaye Mehmaan - S2",
+          "actor_img": "https://indianfilmhistory.com/admin_panel_new_dev/media1/files_i/15577216805539vhqmeyw8g.jpeg"
         },
         {
-          "actor_name": "Ram Charan",
-          "actor_img": "https://w0.peakpx.com/wallpaper/145/263/HD-wallpaper-ram-charan-rrr-shirt.jpg"
+          "actor_name": "Bin Bulaye Mehmaan - S3",
+          "actor_img": "https://i.ytimg.com/vi/B6bE_ijPyoU/maxresdefault.jpg"
         }
       ],
-      "Allu Arjun": [
+      "Adulting": [
         {
           "id": "1",
-          "movie_img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sarrainodu-et00038117-17-11-2020-02-06-39.jpg",
-          "movie_title": "Sarrainodu",
-          "movie_des": "Sarrainodu (4K ULTRA HD) Full Hindi Dubbed Movie | Allu Arjun, Rakul Preet Singh, Catherine Tresa",
-          "thumb_nail_image": "https://i.ytimg.com/vi/B6h-kQLQqec/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv1YAhufrZ-zPkn_fy_642xsD_RA",
-          "video_id": "B6h-kQLQqec"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://www.modernmoviee.com/Uploads/distribution_image/south_hindi_dubbed_64.jpg",
-          "movie_title": "Dum (Happy)",
-          "movie_des": "Dum (Happy) - Allu Arjun Blockbuster Hindi Dubbed Movie l South Superhit Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/ooyk3d5Z3DI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKbPxS3HmMmR3hEsqOe2TUPG_4zw",
-          "video_id": "ooyk3d5Z3DI"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg",
-          "movie_title": "Pushpa",
-          "movie_des": "Pushpa - The Rise : Full Movie facts HD 4K | Allu Arjun |Rashmika Mandanna |Faahadh F |Y RaviShankar",
-          "thumb_nail_image": "https://i.ytimg.com/vi/LGIUzAXVrQw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHOLJvMVe2Yi1l_p6ORa65UTovNQ",
-          "video_id": "LGIUzAXVrQw"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://e1.pxfuel.com/desktop-wallpaper/1023/408/desktop-wallpaper-watch-main-hoon-lucky-the-racer-lucky-the-racer-thumbnail.jpg",
-          "movie_title": "Main Hoon Lucky The Racer",
-          "movie_des": "Allu Arjun (HD) New Released Full Hindi Dubbed Film | Telugu Hindi Dubbed |Main Hoon Lucky The Racer",
-          "thumb_nail_image": "https://i.ytimg.com/vi/4h1ds7gj-KU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMTf8WVwgkqzpsjyw2n_M_Dy4KAg",
-          "video_id": "4h1ds7gj-KU"
-        },
-        {
-          "id": "5",
-          "movie_img": "https://files.prokerala.com/movies/pics/800/dj-3rd-week-wallpapers-72485.jpg",
-          "movie_title": "DJ (Duvvada Jagannadham)",
-          "movie_des": "DJ (Duvvada Jagannadham) full movie in hindi 1080p | allu arjun, pooja hegde",
-          "thumb_nail_image": "https://i.ytimg.com/vi/k8BGwpgARLk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2CS74uoQJ-Mf9awpbFV1j1wUZ7A",
-          "video_id": "k8BGwpgARLk"
-        }
-      ],
-      "Mahesh Babu": [
-        {
-          "id": "1",
-          "movie_img": "https://i.pinimg.com/originals/87/9f/c1/879fc18c637f52fd5ee8ec4dae33f000.jpg",
-          "movie_title": "KING",
-          "movie_des": "Mahesh Babu Latest Hindi Dubbed Action Movie | South Dub Movies In Hindi 2022 | KING",
-          "thumb_nail_image": "https://i.ytimg.com/vi/wEmc38Pxlho/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVzh7xBREGhKUQtvH1eyo6uy_NjA",
-          "video_id": "wEmc38Pxlho"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BNWQxMDUyOGQtZTg1Yy00NTU2LTgxOGYtMzQ0M2Y5MWZmNGNmXkEyXkFqcGdeQXVyMjMyNjkwMTY@._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "Srimanthudu",
-          "movie_des": "Mahesh Babu Blockbuster Srimanthudu Full Movie in Hindi Dubbed 2023 | Shruti Haasan And Mahesh Babu",
-          "thumb_nail_image": "https://i.ytimg.com/vi/K-diicfLF_c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWI_QiTOombzfwlT02D24RZVUekA",
-          "video_id": "wBIScXQrl5o"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/bharat-the-great-leader-et00087454-31-10-2018-11-01-41.jpg",
-          "movie_title": "Dashing CM Bharat",
-          "movie_des": "CM Bharat Movie Full Hd ll Mahesh Babu New South Movie Full Hd ll",
-          "thumb_nail_image": "https://i.ytimg.com/vi/QhZwJygMD0U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlmbHDYJqRdhpM0tPyJew2of_eRQ",
-          "video_id": "QhZwJygMD0U"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71qez-nw7jL._RI_.jpg",
-          "movie_title": "Sabse Badhkar Hum 2",
-          "movie_des": "Sabse Badhkar Hum 2 (Seethamma Vakitlo Sirimalle Chettu) Hindi Dubbed Full Movie | Mahesh Babu",
-          "thumb_nail_image": "https://i.ytimg.com/vi/rFZWsHfhBsg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8jsWLdtbGbm55YaiW3HHtxRkZpA",
-          "video_id": "rFZWsHfhBsg"
-        },
-        {
-          "id": "5",
-          "movie_img": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-movie_2113647614/portrait/encountershankar_466933977.jpg",
-          "movie_title": "Encounter Shankar",
-          "movie_des": "Encounter Shankar (2015) Full Hindi Dubbed Movie | Mahesh Babu, Tamannaah, Sonu Sood, Shruti Haasan",
-          "thumb_nail_image": "https://i.ytimg.com/vi/yBp04MBwQO4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs1OhI1vzQzry-8IEd8xh7nRhfJg",
-          "video_id": "yBp04MBwQO4"
-        }
-      ],
-      "Prabhas": [
-        {
-          "id": "1",
-          "movie_img": "Project ",
-          "movie_title": "Project K",
-          "movie_des": "Project K New (2023) Released Full Hindi Dubbed Action Movie | Prabhas New Blockbuster Movie 2023",
-          "thumb_nail_image": "https://i.ytimg.com/vi/HqWG7oROgaE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn-MlR4_88jsH_1yOqR6qfyXe7ew",
-          "video_id": "HqWG7oROgaE"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://cps-static.rovicorp.com/2/Open/Colors%20Cineplex%20USA_4719/Program/26204526/_derived_jpg_q90_310x470_m0/4E01816744247B5425753688F17023F7EF7E6058F_96a6028f25d1406d.jpg",
-          "movie_title": "The Return Of Rebel",
-          "movie_des": "The Return Of Rebel (Rebel) (4K ULTRA HD) Full Action Hindi Dubbed Movie| Prabhas, Tamannaa, Deeksha",
-          "thumb_nail_image": "https://i.ytimg.com/vi/e3lm0bTGZfI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4j8SsB51KI7SflhutvCO8Wg3taw",
-          "video_id": "e3lm0bTGZfI"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://wikiprime.co.in/wp-content/uploads/2022/03/MV5BMzNhOTdlNmUtYzNiYi00MmUxLTg3ZjgtZjk4Y2Y5YTk3ODdiXkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1.jpg",
-          "movie_title": "Radhe Shyam",
-          "movie_des": "Radhe Shyam Full Movie HD in Hindi facts | Prabhas | Pooja Hegde | Radha K Kumar |J Prabhakaran",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "Xck4NFPJppU"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BNDExZjFiYjItMmM3OS00OGUxLTliMTctMzFhZDkzMmFhMzY1XkEyXkFqcGdeQXVyMTA1NTAyMjAw._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "Saaho",
-          "movie_des": "Saaho Full Movie In Hindi Dubbed HD | Prabhas, Shraddha Kapoor, Arun Vijay |",
-          "thumb_nail_image": "https://i.ytimg.com/vi/CNuFx2KeUIM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNlLCAIKE_b0nAHQ1xrmeKECThfw",
-          "video_id": "CNuFx2KeUIM"
-        },
-        {
-          "id": "5",
-          "movie_img": "https://www.hollywoodreporter.com/wp-content/uploads/2015/07/bahubali_warrior_poster_p_15.jpg",
-          "movie_title": "Bahubali",
-          "movie_des": "Bahubali Full Movie In Hindi 1080p | New Blockbuster Movie Hindi1080p | Prabhas New Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/L9dJymnnOg8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2LeEAe5Z9ztgGBhsJVMZqaPRggQ",
-          "video_id": "L9dJymnnOg8"
-        },
-        {
-          "id": "6",
-          "movie_img": "https://m.media-amazon.com/images/I/711eHgGtnFL._SL1209_.jpg",
-          "movie_title": "Bahubali 2",
-          "movie_des": "Bahubali 2 Full Movie In Hindi 1080p | New Blockbuster Movie Hindi1080p | Prabhas New Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/hzftCrLeEPw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6r8gPD-_XHh7twJKHsamt5ZI_pQ",
-          "video_id": "RwEH3d89cU0"
-        }
-      ],
-      "Jr. NTR": [
-        {
-          "id": "1",
-          "movie_img": "https://assets.voxcinemas.com/posters/P_HO00006066.jpg",
-          "movie_title": "Aravind Sametha",
-          "movie_des": "Aravind Sametha (4K) | Jr NTR, Pooja Hegde, Jagapathi Babu, Eesha Rebba | New Hindi Dubbed Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/4jtbe0I1e1c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVtqSY0EyFAob3rCuS8PJNYcyelw",
-          "video_id": "4jtbe0I1e1c"
+          "video_id": "tPXYWRGNl7s"
         },
         {
           "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BOGEzYzcxYjAtZmZiNi00YzI0LWIyY2YtOTM0MDFjODU2YTZiXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg",
-          "movie_title": "RRR",
-          "movie_des": "New Hindi Dubbed Movie 2022 Ram Charan | Jr. Ntr South Indian Movies In Hindi Action Full Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/3lCCsu0eULk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQQQ1W99HeO3kT0nit7hCqYMlo5A",
-          "video_id": "3lCCsu0eULk"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://i.imgur.com/EJpf7zOh.jpg",
-          "movie_title": "The Super Khiladi 2",
-          "movie_des": "The Super Khiladi 2 (4K ULTRA HD) - Full Hindi Dubbed Movie | Jr. NTR, Samantha, Pranitha Subhash",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "ckgDpKUMCnU"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1369477016/portrait/1920x770293ad37dddce438293d07c496434430f.jpg",
-          "movie_title": "Family Ek deal",
-          "movie_des": "Family Ek deal | Rakul Preet Singh And Jagapathi Babu | South Dubbed Hindi Movies",
-          "thumb_nail_image": "https://i.ytimg.com/vi/m2B7OSh3kmg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnXEjQtQPIAL8Jfi3XrO8g6SmusA",
-          "video_id": "iXxg3DYaafo"
-        },
-        {
-          "id": "5",
-          "movie_img": "https://assets.voxcinemas.com/posters/P_HO00004045.jpg",
-          "movie_title": "Janta Garage",
-          "movie_des": "Janta Garage (4K ULTRA HD) - Full Hindi Dubbed Movie | Jr NTR, Mohanlal, Samantha, Nithya Menen",
-          "thumb_nail_image": "https://i.ytimg.com/vi/iXxg3DYaafo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB80oiI2t9WO0KGNnE8l3tWuH_ScQ",
-          "video_id": "m2B7OSh3kmg&t=31s"
-        }
-      ],
-      "Rajnikanth": [
-        {
-          "id": "1",
-          "movie_img": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ef973a148c3500f80f6df5f23ea5f1e383c4906173295875b633c87140e67e53._RI_V_TTW_.jpg",
-          "movie_title": "Sivaji The Boss (Sivaji) ",
-          "movie_des": "Sivaji The Boss (Sivaji) Hindi Dubbed Full Movie | Rajinikanth, Shriya Saran",
-          "thumb_nail_image": "https://i.ytimg.com/vi/NenlQz-FkLY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbVOQjaa0kw7oS64hG3htVO79dg",
-          "video_id": "NenlQz-FkLY"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://cinema.sebosa.in/images/videos/a9f3989cfbf0ad59e026b0a5a856148c.jpg",
-          "movie_title": "Darbar",
-          "movie_des": "South Superstar Rajnikanth Action Movie | Darbar Full Movie In Hindi Dubbed | Nayanthara | Nivetha",
-          "thumb_nail_image": "https://i.ytimg.com/an_webp/83UoLE7TVtQ/mqdefault_6s.webp?du=3000&sqp=CPCokKIG&rs=AOn4CLCISRPheeSpVy0Ow2R2jl7ISLgiiQ",
-          "video_id": "83UoLE7TVtQ"
+          "video_id": "tPXYWRGNl7s"
         },
         {
           "id": "3",
-          "movie_img": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4c466fe460b92be4b67735758f0c230b222c49eef6e8c94c456e312b8f95251e._RI_V_TTW_.jpg",
-          "movie_title": "KABALI",
-          "movie_des": "KABALI full movie in hindi dubbed rajnikant",
-          "thumb_nail_image": "https://i.ytimg.com/vi/sk_2yl3gpkg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNUkaBpskI6StmVIK13zTpZCM3zA",
-          "video_id": "sk_2yl3gpkg"
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
         }
       ],
-      "Vijay Deverakonda": [
+      "2BY3": [
         {
           "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/I/71qiF3xKsNL._RI_.jpg",
-          "movie_title": "Dear Comrade (2020)",
-          "movie_des": "Dear Comrade (2020) New Released Hindi Dubbed Full Movie | Vijay Devarakonda, Rashmika, Shruti",
-          "thumb_nail_image": "https://i.ytimg.com/vi/zzhfvt5vZHI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYI6goCg_WlEtld8khYs99hV6Hdg",
-          "video_id": "zzhfvt5vZHI"
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
         },
         {
           "id": "2",
           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-          "movie_title": "Liger",
-          "movie_des": "Liger Full Movie In Hindi Dubbed 2022 | Vijay Deverakonda | Ananya Panday Review & Unknown Facts HD",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "b3Tr-Upztes"
+          "video_id": "KLucs7B8JDA"
         },
         {
           "id": "3",
-          "movie_img": "https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/9217/1389217-v-c29b53bc1557",
-          "movie_title": "Arjun Reddy",
-          "movie_des": "Arjun Reddy Full movie | Vijay Deverakonda | Shalini Pandey | HD Movie Facts and review",
-          "thumb_nail_image": "https://i.ytimg.com/vi/HAWQxNQ3gcA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCavDs6A1eWhLWX6-m_D-jBR8YgjA",
-          "video_id": "HAWQxNQ3gcA"
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
         }
       ],
-      "Ram Charan": [
+      "Big Borrow Steal": [
         {
           "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMmNkNGIyMjEtZDJkNy00ZTBkLTg3MWUtMDBjM2ZmZGMyYTVlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
-          "movie_title": "Election Xtreme",
-          "movie_des": "Election Xtreme - South Indian Movie Dubbed In Hindi Full | Ram Charan, Sampath Raj",
-          "thumb_nail_image": "https://i.ytimg.com/vi/xU8fQ1irR6s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-bN14_GU1y9-eDeVvLdxzc6EFHQ",
-          "video_id": "xU8fQ1irR6s"
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
         },
         {
           "id": "2",
-          "movie_img": "https://www.mp4moviez.health/cover/betting-raja---rachcha-(2012)-hindi-dubbed-hdrip.jpg",
-          "movie_title": "Betting Raja (HD)",
-          "movie_des": "Betting Raja (HD) (Racha)- राम चरण की ब्लॉकबस्टर एक्शन मूवी | बेटिंग राजा |Ram Charan Superhit Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/zPM_y9TZAro/mqdefault.jpg",
-          "video_id": "WuVxHShRD4s"
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
         },
         {
           "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BYjczYjdhYzItYzM5Mi00YWNkLTljYmMtZDJkZWQ0NDEyOGIxXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg",
-          "movie_title": "Yevadu",
-          "movie_des": "Yevadu Hindi Dubbed Full Movie | Ram Charan, Allu Arjun, Shruti Hassan, Kajal Aggarwal, Amy Jackson",
-          "thumb_nail_image": "https://i.ytimg.com/vi/AgwszFUm_yQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjpfQh3ojthJUYp9sxN00eSYUf3Q",
-          "video_id": "AgwszFUm_yQ"
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Boys will Be Boys": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
         },
         {
-          "id": "4",
-          "movie_img": "https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/old_images/vertical/MOVIE/2697/1000192697/1000192697-v",
-          "movie_title": "Dhruva",
-          "movie_des": "Dhruva (HD) - Ram Charan Superhit Action Hindi Dubbed Movie l Rakul Preet Singh, Arvind Swamy",
-          "thumb_nail_image": "https://i.ytimg.com/vi/_nlfWZM7D6A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtG_bz_WMNRvtL-JvxoY82HGc12w",
-          "video_id": "_nlfWZM7D6A"
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "Bin Bulaye Mehmaan - S1": [
+        {
+          "id": "1",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "tPXYWRGNl7s"
+        }
+      ],
+      "Bin Bulaye Mehmaan - S2": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        }
+      ],
+      "202 movies": [
+        {
+          "id": "1",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
+          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
+          "video_id": "KLucs7B8JDA"
         }
       ]
-    },
-    "bhojpuri": {
-      "actor_img": [
-        {
-          "actor_name": "Ravi Kishan",
-          "actor_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ravi_Kishan_celebrates_his_44th_birthday.jpg/220px-Ravi_Kishan_celebrates_his_44th_birthday.jpg"
-        },
-        {
-          "actor_name": "Pawan Singh",
-          "actor_img": "https://mgeditzone.com/wp-content/uploads/2022/03/zBziJQCz_400x400.jpg"
-        },
-        {
-          "actor_name": "Dineshlal Yadav",
-          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
-        },
-        {
-          "actor_name": "Keshrilal Yadav",
-          "actor_img": "https://indiabiography.in/wp-content/uploads/2020/04/Khesari-Lal-Yadav-Biography-in-Hindi.png"
-        },
-        {
-          "actor_name": "Manoj Tiwari",
-          "actor_img": "https://images.news18.com/ibnlive/uploads/2022/01/manoj-tiwari-1.jpg"
-        },
-        {
-          "actor_name": "Monalisa",
-          "actor_img": "https://media.newstrack.in/amp/uploads/entertainment-news/television-news/Feb/27/big_thumb/monl2_6039cb484776a.jpg"
-        },
-        {
-          "actor_name": "Anjana Singh",
-          "actor_img": "https://reservemystar.com/wp-content/uploads/2021/05/Anjana-Singh.jpg"
-        }
-      ],
-      "Ravi Kishan": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BODMzMjc4MTcwNV5BMl5BanBnXkFtZTgwMjU1NDg5MjE@._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "Lucky Kabootar",
-          "movie_des": "Lucky Kabootar (HD) 2014 | Eijaz Khan | Kulraj Randhawa | Ravi Kishan | Sanjay Mishra | Latest Film",
-          "thumb_nail_image": "https://i.ytimg.com/vi/cYb5oUvHq0U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbgBjbSit2sjhiXCe1vhvnXOU_tg",
-          "video_id": "cYb5oUvHq0U"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BNjg4YmFiYTUtOTIyMi00ZjZkLWFmMWUtZmY3ZDNlNWZjY2ZhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
-          "movie_title": "Jeena Hai To Thok Daal",
-          "movie_des": "Jeena Hai To Thok Daal Hindi Movie - Ravi Kishan - Yashpal Sharma - Blockbuster Hindi Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/5ljSfoPc7as/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABj-JE_xi6_saM1mYRbcrEW9nwsg",
-          "video_id": "5ljSfoPc7as"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://c.saavncdn.com/727/Saiyan-Hamaar-Bhojpuri-2001-20221204190448-500x500.jpg",
-          "movie_title": "SAIYAN HAMAAR",
-          "movie_des": "SAIYAN HAMAAR - FULL BHOJPURI MOVIE [ Feat.RAVI KISHAN, ARPITA PAL",
-          "thumb_nail_image": "https://i.ytimg.com/vi/BesLIgUqdTA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0JKnPx36scvb4SSAPzLnQsCDVCA",
-          "video_id": "BesLIgUqdTA"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BOGQ3Y2M4NGItYzQ5YS00YzZlLWI0ZmUtODdiZmUwZTNlYjAxXkEyXkFqcGdeQXVyODAzOTMzNDA@._V1_QL75_UX190_CR0,4,190,281_.jpg",
-          "movie_title": "Ego Chumma Deda Rajaji",
-          "movie_des": "Ego Chumma Deda Rajaji | Bhojpuri Full Movies | Ravi Kishan | Manoj Tiwari | Bhagyashree",
-          "thumb_nail_image": "https://i.ytimg.com/vi/2bhV2FuHrdw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAnxJWyw6_9G5hx9h6X0R5EOT7Ig",
-          "video_id": "2bhV2FuHrdw"
-        },
-        {
-          "id": "5",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMTY3MDBmNTEtOTlkNS00NDdkLWI1MjQtZDhiZWEwNWQ2N2FmL2ltYWdlXkEyXkFqcGdeQXVyNzIyODEwODE@._V1_.jpg",
-          "movie_title": "RAKHTBHOOMI",
-          "movie_des": "RAKHTBHOOMI | BHOJPURI | RAVI KISHAN,MONALISA",
-          "thumb_nail_image": "https://i.ytimg.com/vi/-jq4D6tlkyA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY8tU1T_HTNyxRFIV8jGyNAK8vjA",
-          "video_id": "jq4D6tlkyA"
-        },
-        {
-          "id": "6",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMWY4ZDMwYTgtZGY1MS00Y2U4LTliMjQtNjkyYmRhMzQzNjNjXkEyXkFqcGdeQXVyNjg5NTc1NDA@._V1_.jpg",
-          "movie_title": "Love Aur Rajneeti",
-          "movie_des": "Anjana Singh, Ravi Kishan | की Superhit FULL Bhojpuri Movie | Love Aur Rajneeti",
-          "thumb_nail_image": "https://i.ytimg.com/vi/XLeTk10NXss/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjJGjMa5-k8qL3RPRGu4Egv2uXQA",
-          "video_id": "XLeTk10NXss"
-        }
-      ],
-      "Pawan Singh": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BZmM2YzIzYzgtYjRkOC00M2MzLWEyMjgtNWU4MzBiMTgzNjAwXkEyXkFqcGdeQXVyMTA4NDIzMTY1._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "PAWAN RAJA",
-          "movie_des": "PAWAN RAJA - Superhit Full Bhojpuri Movie 2023 - Pawan Singh, Akshara, Monalisa & Aamrapali Dubey",
-          "thumb_nail_image": "https://i.ytimg.com/vi/ys2ktusi-4k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9mxnEppO6q1CHp45cpcuA7L1mTw",
-          "video_id": "ys2ktusi-4k"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BM2FiOGIyZDAtYmFmMy00MTdmLWE3MTMtNjUyMTdhODYxNTA3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDkyMjY1NzI@._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "Ziddi Aashiq",
-          "movie_des": "Ziddi Aashiq - Bhojpuri Full Movie | Pawan Singh & Monalisa | Superhit Bhojpuri Action Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/l_lS69de1kA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnbh0zUlPzvmcXNSFd8qnPbPJGUA",
-          "video_id": "l_lS69de1kA"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://3.bp.blogspot.com/-s2z_6lQPtb4/VZjyq9h1VtI/AAAAAAAADPE/z9Q6UDJZW9g/s1600/bhojpuri-actor-pawan-singh.jpg",
-          "movie_title": "जलवा",
-          "movie_des": "FULL HD MOVIE | #जलवा | #Pawan Singh | भोजपुरी फिल्म 2022 | Jalawa | Madhu Sharma | New Film 2022",
-          "thumb_nail_image": "https://i.ytimg.com/vi/riIJ-YXqdnA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtdMiAvAR6nj26VnZTCSmp5hhDLg",
-          "video_id": "riIJ-YXqdnA"
-        }
-      ],
-      "Dineshlal Yadav": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMGFmODc3NzktY2UwNy00MzAwLWEzMTItZjYyN2IzNzNlYmJlXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
-          "movie_title": " LAALU KI LAILA",
-          "movie_des": " LAALU KI LAILA | #Dinesh Lal Yadav #Aamrapali Dubey #Yaminisingh#BhojpuriMovie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/ME6o4Xvngpg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACYkIoxj1yD5VWOiYDaG-U7nUjxA",
-          "video_id": "ME6o4Xvngpg"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://staticimg.spicyonion.com/images/profile/title/nirahua-hindustani-2-bhojpuri-movie/nirahua-hindustani-2-bhojpurimovie.jpg",
-          "movie_title": "NIRAHUA HINDUSTANI 2",
-          "movie_des": "NIRAHUA HINDUSTANI 2 - Superhit Full Bhojpuri Movie - Dinesh Lal Yadav 'Nirahua' , Aamrapali",
-          "thumb_nail_image": "https://i.ytimg.com/vi/CzC2vkPUvVA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_uHIM9jIgJlBtP-PsMj-JiSuy5Q",
-          "video_id": "CzC2vkPUvVA"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://images1.livehindustan.com/uploadimage/library/2022/06/26/16_9/free_2/_1656257255.jpg",
-          "movie_title": "अनपढ़ पति हमार",
-          "movie_des": "अनपढ़ पति हमार | #Dinesh Lal Yadav की ये फिल्म भोजपुरी समाज के लिए एक बहुत बड़ा सबक है | Movie 2022",
-          "thumb_nail_image": "https://i.ytimg.com/vi/9INtXQxC11k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQmLRZvytq4YvJvcPTUNT55XNryQ",
-          "video_id": "9INtXQxC11k"
-        }
-      ],
-      "Keshrilal Yadav": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BZWI4MDU3NDQtNzdjNC00MGRmLTg4MTAtOWE0NzU3MzQ2Y2FmXkEyXkFqcGdeQXVyMTA4NDIzMTY1._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "DOLI SAJA KE RAKHNA",
-          "movie_des": "DOLI SAJA KE RAKHNA | FULL MOVIE | Khesari Lal Yadav, Aamrapali Dubey | डोली सजा के रखना | Bhojpuri",
-          "thumb_nail_image": "https://i.ytimg.com/vi/r8hFYaaaoGk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxF3RPIm0bvjdz29C6uziQuBoRDA",
-          "video_id": "r8hFYaaaoGk"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://timesofindia.indiatimes.com/photo/80262973.cms",
-          "movie_title": "Dulhan Wahi Jo Piya Man Bhaye",
-          "movie_des": "Dulhan Wahi Jo Piya Man Bhaye | Khesari Lal Yadav | Kajal Raghwani | Madhu Sharma | Bhojpuri Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/jM4ApnKhqn0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8f0SyPTgis1MiTldR7LdLPLWmOA",
-          "video_id": "jM4ApnKhqn0"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BZmNjNWU1MjEtMjA0MC00NjY5LWI1OGItYWIzZDQzMGRiYzJmXkEyXkFqcGdeQXVyMTA4NDIzMTY1._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "SAIYA ARAB GAILE NA",
-          "movie_des": "SAIYA ARAB GAILE NA | FULL MOVIE | #Khesarilalyadav, #Kajalraghwani, #Shubhisharma | Movie 2023",
-          "thumb_nail_image": "https://i.ytimg.com/vi/WvZ-Ztcc-1I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvcOUFRyxfn1q3BIrCYCbajpi14w",
-          "video_id": "WvZ-Ztcc-1I"
-        }
-      ],
-      "Manoj Tiwari": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BOGQ3Y2M4NGItYzQ5YS00YzZlLWI0ZmUtODdiZmUwZTNlYjAxXkEyXkFqcGdeQXVyODAzOTMzNDA@._V1_QL75_UX190_CR0,4,190,281_.jpg",
-          "movie_title": "Ego Chumma Deda Rajaji",
-          "movie_des": "Ego Chumma Deda Rajaji | Bhojpuri Full Movies | Ravi Kishan | Manoj Tiwari | Bhagyashree",
-          "thumb_nail_image": "https://i.ytimg.com/vi/2bhV2FuHrdw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAnxJWyw6_9G5hx9h6X0R5EOT7Ig",
-          "video_id": "2bhV2FuHrdw"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BNzkzMWZmNTktYmU2Zi00MWFiLTg0YjAtMmRmNmVmZTFhY2I0XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_.jpg",
-          "movie_title": "PURAB",
-          "movie_des": "PURAB - THE MAN FROM EAST | Manoj Tiwari Super Hit Bhojpuri Drama Movie | Full Bhojpuri HD Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/lUzpg5nyZOE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbCmQFf0FQmSw3j7A_KzXWxWYgzg",
-          "video_id": "lUzpg5nyZOE"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://cdn.collectorbazar.com/products/1990-kab-aibu-anganwa-hamar-hindi-film-starring-sanjay-tripathishweta-tiwari-manoj-tiwari-directed-by-jatin-pandit-movie-booklet-with-story-synopsis-songs-credit-10412-419206-3.jpg",
-          "movie_title": "Kab Aibu Anganwa Hamar",
-          "movie_des": "New Bhojpuri Full Movies 2016 | Kab Aibu Anganwa Hamar | Manoj Tiwari | Shweta Tiwari | BhojpuriHits",
-          "thumb_nail_image": "https://i.ytimg.com/vi/6rvyo2l_d_k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByICYrwnARL2aBGnVpO1VADwbPOA",
-          "video_id": "6rvyo2l_d_k"
-        }
-      ],
-      "Monalisa": [
-        {
-          "id": "1",
-          "movie_img": "https://2.bp.blogspot.com/-IymJbjyyQ-A/Vtu8BsJGJLI/AAAAAAAADgM/13udzuuFbrk/s1600/Nihattha-bhojpuri-film-2014-Monalisa-ratan-kumar.jpg",
-          "movie_title": "Nihattha",
-          "movie_des": "Nihattha - निहत्था - Bhojpuri Movie 2021 || Monalisa || Latest Bhojpuri Full Film",
-          "thumb_nail_image": "https://i.ytimg.com/vi/bQcJEqN_JoM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClOe2YS5_DDLWuPJ54IAu6YaLgbA",
-          "video_id": "bQcJEqN_JoM"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://2.bp.blogspot.com/-yUfpL9sPU_o/V7XAXKTfSPI/AAAAAAAAHN0/ZarO4-izkg4DS6b7xFx2ZbvJRrMivIMBACLcB/s640/Gharwali_Baharwali_Bhojpuri_Movie_Star_casts_News_Wallpapers_Songs_firstlook_Videos.jpg",
-          "movie_title": "Gharwali Baharwali",
-          "movie_des": "Gharwali Baharwali - Super Hit Full Bhojpuri Movie 2020- Monalisa & Rani Chatterjee - Full Film",
-          "thumb_nail_image": "https://i.ytimg.com/vi/woN_RxKivRA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgE1WI1Fa5KJV9th_EJGynWNA_lQ",
-          "video_id": "woN_RxKivRA"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMTY3MDBmNTEtOTlkNS00NDdkLWI1MjQtZDhiZWEwNWQ2N2FmL2ltYWdlXkEyXkFqcGdeQXVyNzIyODEwODE@._V1_.jpg",
-          "movie_title": "RAKHTBHOOMI",
-          "movie_des": "RAKHTBHOOMI | BHOJPURI | RAVI KISHAN,MONALISA",
-          "thumb_nail_image": "https://i.ytimg.com/vi/-jq4D6tlkyA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY8tU1T_HTNyxRFIV8jGyNAK8vjA",
-          "video_id": "jq4D6tlkyA"
-        }
-      ],
-      "Anjana Singh": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMWY4ZDMwYTgtZGY1MS00Y2U4LTliMjQtNjkyYmRhMzQzNjNjXkEyXkFqcGdeQXVyNjg5NTc1NDA@._V1_.jpg",
-          "movie_title": "Love Aur Rajneeti",
-          "movie_des": "Anjana Singh, Ravi Kishan | की Superhit FULL Bhojpuri Movie | Love Aur Rajneeti",
-          "thumb_nail_image": "https://i.ytimg.com/vi/XLeTk10NXss/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjJGjMa5-k8qL3RPRGu4Egv2uXQA",
-          "video_id": "XLeTk10NXss"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://timesofindia.indiatimes.com/photo/61236028.cms",
-          "movie_title": "Paida Karne wale ki Clean",
-          "movie_des": "REELKasam Paida Karne wale ki Clean Bhojpuri | Full Movie | Anjana singh, Akanksha dubey| B4U PlusREELKasam Paida Karne wale ki Clean Bhojpuri | Full Movie | Anjana singh, Akanksha dubey| B4U Plus",
-          "thumb_nail_image": "https://i.ytimg.com/vi/OwvsDVnFyVQ/hq2.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhOIFAoZTAP&rs=AOn4CLBAcJV3FqJGXZtBHYAQW_vGYzkZjA",
-          "video_id": "OwvsDVnFyVQ"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://images.moviebuff.com/4a7ab276-0e47-474b-b22b-de3fd5a43846?w=600",
-          "movie_title": "बाबा रंगीला",
-          "movie_des": "Baba Rangila | बाबा रंगीला | Viraj Bhatt, Anjana Singh | Bhojpuri Full Movies | Lattest Hottest Film",
-          "thumb_nail_image": "https://i.ytimg.com/vi/mq_HVslcUnY/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGBOkEHlqsfAGY67fX5MkKI3LU4w",
-          "video_id": "mq_HVslcUnY"
-        }
-      ]
-    },
-    "marathi": {
-      "actor_img": [
-        {
-          "actor_name": "New and Old",
-          "actor_img": "https://i.pinimg.com/736x/36/28/33/362833ba60ba3cdc0dfd7aabb2e78929--movie-posters-collage.jpg"
-        },
-        {
-          "actor_name": "Ashok Saraf",
-          "actor_img": "https://cutewallpaper.org/21/ashok-saraf/307565137279081767526332.jpg"
-        },
-        {
-          "actor_name": "Jayshree Gadkar",
-          "actor_img": "https://www.cinemaazi.com/uploads/studio/visual/img_id_1644/img20210415-16254495.jpg"
-        },
-        {
-          "actor_name": "Makarand Anaspurr",
-          "actor_img": "https://1.bp.blogspot.com/-nSYz4l0NDgg/UiNXoFCoQ9I/AAAAAAAAHX8/W2H8LhIC8WE/s1600/anaspure.jpeg"
-        },
-        {
-          "actor_name": "Laxmikant Berde",
-          "actor_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDULzuxsh-eNarBOWI7xKQJwW50i0__GnDa9B2x4w3zKhxwHWLQNck_qDjen5xYXJyRGg&usqp=CAU"
-        },
-        {
-          "actor_name": "Nilu Phulle",
-          "actor_img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/NiluPhuleSquare300px.jpg"
-        },
-        {
-          "actor_name": "Sachin Plgaonkar",
-          "actor_img": "https://nettv4u.com/uploads/Sachin-Pilgaonkar.jpg"
-        }
-      ],
-      "New and Old": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/I/710igAKc3yS._SL1280_.jpg",
-          "movie_title": "Vasudev Balwant Phadke",
-          "movie_des": "Vasudev Balwant Phadke - Full Movie HD - Marathi Latest Movie - Ajinkya Deo, Sonali Kulkarni",
-          "thumb_nail_image": "https://i.ytimg.com/vi/YkL53N7nSjo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq1sqkfDAroqj1xfrye_OcrSX8qw",
-          "video_id": "YkL53N7nSjo"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://www.marathifilmdata.com/wp-content/uploads/2016/10/Vaat-Pahate-Punavechi-1.jpg",
-          "movie_title": "वाट पाहते पुनवेची",
-          "movie_des": "वाट पाहते पुनवेची Vaat Pahate Punvechi Full Length Marathi Movies | Ashok Saraf, Alka Kubal",
-          "thumb_nail_image": "https://i.ytimg.com/vi/Q4GL77SfF5c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa4WfiyaHP7Fec3x2FOACERK2weg",
-          "video_id": "Q4GL77SfF5c"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/61281a31668477.565c14d67e03d.jpg",
-          "movie_title": "Tu Hi Re",
-          "movie_des": "Tu hi re - new Marathi HD movie Swapnil Joshi Sai Tamhankar ,marthi movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/Z3vZsrJgj4w/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjgWThGT-8ADnnoR4_xzc1p0VlOw",
-          "video_id": "Z3vZsrJgj4w"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://1.bp.blogspot.com/-E7fvtRr0SRM/ULPCS0dSolI/AAAAAAAAEIE/j7q6k35_rPk/s1600/Survanta.jpg",
-          "movie_title": "Survanta",
-          "movie_des": "Survanta - Full Movie | Pratiksha Lonkar, Nilu Phule, Tushar Dalvi | Superhit Marathi Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/zY5hUHb5SOM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjpXzoGwQsCP2nT17HfJZngFDyIA",
-          "video_id": "zY5hUHb5SOM"
-        },
-        {
-          "id": "5",
-          "movie_img": "https://m.media-amazon.com/images/I/7142O8ajCJL._RI_.jpg",
-          "movie_title": "Online Binline",
-          "movie_des": "Online Binline | Full Marathi Movie | Siddharth Chandekar, Hemant Dhome | Latest Marathi Movies",
-          "thumb_nail_image": "https://i.ytimg.com/vi/k_f1ZdnrIE0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCugyB-wShujcvRZZp9yIrxFSzFuQ",
-          "video_id": "k_f1ZdnrIE0"
-        }
-      ],
-      "Ashok Saraf": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BNTA1YjhjNjAtM2Y4ZS00ZjdhLTgxNGQtMWUyZmFiNjk0NDg2XkEyXkFqcGdeQXVyNTAwNDM0OTk@._V1_.jpg",
-          "movie_title": "Vajva Re Vajva",
-          "movie_des": "Vajva Re Vajva marathi movie 1",
-          "thumb_nail_image": "https://i.ytimg.com/vi/Le16_Q9O1kU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAplmzBgLPPp137NswBNMD3ddmRqg",
-          "video_id": "n5i8GQt6TE8"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BYmY4MTI1ZmItNTNmOC00YzQ5LWI4YTQtODZkYTRhZmMxMTU2XkEyXkFqcGdeQXVyNjQxNDg4OTM@._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "Tujhi Majhi Jamli Jodi",
-          "movie_des": "Tujhi Majhi Jamli Jodi -Full Movie - Marathi Comedy Movie - Ashok Saraf - Nivedita - Savita Prabhune",
-          "thumb_nail_image": "https://i.ytimg.com/vi/_KRsE4CWxkc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAr84jO3-Cl2ARbAPL-PPIW61TSw",
-          "video_id": "_KRsE4CWxkc"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/I/713dEflVN0L._SX355_.jpg",
-          "movie_title": "Sangeet Sanshay Kallol",
-          "movie_des": "Sangeet Sanshay Kallol - New Marathi Natak | Ashok Saraf, Nivedita Saraf",
-          "thumb_nail_image": "https://i.ytimg.com/vi/2KK-715Ujuc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEtR4mxLbVtko4fT2LgkqFcsk4sg",
-          "video_id": "2KK-715Ujuc"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://indianfilmhistory.com/admin_panel_new_dev/media1/files_i/15784651089031tw5rkcwj4.jpeg",
-          "movie_title": "ठकास महाठक",
-          "movie_des": "अशोक सराफ, निळू फुलेचा सुपरहिट मराठी चित्रपट 'ठकास महाठक' - Thakas Mahathak Full Movie - Nilu Phule",
-          "thumb_nail_image": "https://i.ytimg.com/vi/Xw926V7v3mU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADhRH3yY83OyqPtqoIQPsImprRCw",
-          "video_id": "Xw926V7v3mU"
-        },
-        {
-          "id": "5",
-          "movie_img": "https://m.media-amazon.com/images/I/71redrzmyYL._RI_.jpg",
-          "movie_title": "BIN KAMACHA NAVRA",
-          "movie_des": "BIN KAMACHA NAVRA - Full Length Marathi Comedy Movie HD | Ashok Saraf, Ranjana Deshmukh, Nilu Phule",
-          "thumb_nail_image": "https://i.ytimg.com/vi/i7PSa6M2nFE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz4m7b0yrxAF7LohpqbaaVB3SPRQ",
-          "video_id": "i7PSa6M2nFE"
-        },{
-          "id": "6",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BZmRiNjBmZDUtMjc5YS00Mzk0LWEwNWYtYzkwMmYyNmExMzYxXkEyXkFqcGdeQXVyMTgwMjgwMjM@._V1_.jpg",
-          "movie_title": "अदला बदली",
-          "movie_des": "अदला बदली | Adla Badli | Full Marathi Movie HD | Ashok Saraf, Sachin Pilgaonkar, Aditi Bhagawat",
-          "thumb_nail_image": "https://i.ytimg.com/vi/lbRjaZR2lrk/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK8m1NUQ8xR9ACJw1Wui6CTeqGiw",
-          "video_id": "lbRjaZR2lrk"
-        },
-        {
-          "id": "7",
-          "movie_img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/819aitwn9FL._RI_.jpg",
-          "movie_title": "Aayatya Gharat Gharoba",
-          "movie_des": "Aayatya Gharat Gharoba - Marathi Full Movie | Sachin Pilgaonkar, Ashok Saraf , Laxmikant Berde",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "Gx0Vl-QDdho&list=PL_1QtFQWXb1GuB-CspD_-UW9ZI665VPC1"
-        }
-      ],
-      "Jayshree Gadkar": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BYjY2ZjIwZGMtMWQ5OS00ZTViLWJlNGMtNDZmZWU0MzhmYjVkXkEyXkFqcGdeQXVyMjM5NDM1MTE@._V1_.jpg",
-          "movie_title": "मोहित्यांची मंजुला",
-          "movie_des": "मोहित्यांची मंजुला | Mohityanchi Manjula - Full Movie | Jayshree Gadkar, Chittaranjan Kolhatka",
-          "thumb_nail_image": "https://i.ytimg.com/vi/uEDinakrx78/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_yyQWJQMR835BXnqKsVPTcyDDiw",
-          "video_id": "uEDinakrx78"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://indianfilmhistory.com/admin_panel_new_dev/media1/files_i/1578380657529xdo17aw5dc.jpeg",
-          "movie_title": "सून लाडकी या घरची",
-          "movie_des": "Soon Ladki Ya Gharchi (सून लाडकी या घरची) - Full Movie - Marathi Movie | Jayashree Gadkar, Suryakant",
-          "thumb_nail_image": "https://i.ytimg.com/vi/c0Egh5Yjv5Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnMa7rf8YlkZZlY7BARLh7VjQtAg",
-          "video_id": "c0Egh5Yjv5Q"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/I/71rZduFrU1L._SL1280_.jpg",
-          "movie_title": "सवाल माझा ऐका",
-          "movie_des": "Sawaal Majha Aika सवाल माझा ऐका - Full Movie - Marathi Old Movie - Jayshree Gadkar, Arun Sarnaik HD",
-          "thumb_nail_image": "https://i.ytimg.com/vi/Y4-xu6zRP0I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrx9lqcFOSUtDMdCxA6kW-7sheRw",
-          "video_id": "Y4-xu6zRP0I"
-        }
-      ],
-      "Makarand Anaspurr": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMDM2MDc0ZmEtZDhhNi00MWNhLTg4YzAtZmU2OGU4NjAyYTJiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk1NzI5MjE@._V1_.jpg",
-          "movie_title": "No Problem",
-          "movie_des": "No Problem - Full Comedy Marathi Movies | Navin Prabhakar, Jeetendra Joshi, Savita Malpekar",
-          "thumb_nail_image": "https://i.ytimg.com/vi/1QiMAqa-SCQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAfXld1LHzMm-ix9R93Y195hKl6A",
-          "video_id": "1QiMAqa-SCQ"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BNTRkMGU4NTYtMjM3OS00N2U5LThkZWMtOGYxM2I4NGNmNTc3XkEyXkFqcGdeQXVyMjczODk3NjA@._V1_.jpg",
-          "movie_title": "Shubhmangal Savadhan",
-          "movie_des": "Shubhmangal Savadhan | Full Marathi Movie | Ashok Saraf, Makrand Anaspure, Mahesh Kothare",
-          "thumb_nail_image": "https://i.ytimg.com/vi/4wdRnXGbrGc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj0YLPAQb8Fz_pODHSP2bgFX7UyQ",
-          "video_id": "4wdRnXGbrGc"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BN2M5NGM3YjEtODc1MS00NTFiLTlmZWItMjMyMTYzNjU2YWMyXkEyXkFqcGdeQXVyMTgwMjgwMjM@._V1_.jpg",
-          "movie_title": "९ महिने ९ दिवस",
-          "movie_des": "९ महिने ९ दिवस | Nau Mahine Nau Divas | Superhit Marathi Movie | Sanjay Narvekar, Makarand Anaspure",
-          "thumb_nail_image": "https://i.ytimg.com/vi/-W4IWeGai2o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_LX5EbVlUqBwbXsiDMFChwJUtVw",
-          "video_id": "-W4IWeGai2o"
-        }
-      ],
-      "Laxmikant Berde": [
-        {
-          "id": "1",
-          "movie_img": "https://marathimovieworld.com/images/thartharat-marathi-movie-poster.jpg",
-          "movie_title": "THARTHARAT",
-          "movie_des": "THARTHARAT Full Length Marathi Movies | Marathi Movie | Laxmikant Berde, Mahesh Kothare, Nivedita",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "eZjcox7GpfM"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://movieassetsdigital.sgp1.cdn.digitaloceanspaces.com/original/7f3d63c430a31d68f054ae216f4f694326a318f3",
-          "movie_title": "Bajrangachi Kamaal",
-          "movie_des": "Bajrangachi Kamaal Full Length Marathi Movie HD | Marathi Movie |Laxmikant Berde, Ajinkya Dev, Priya",
-          "thumb_nail_image": "https://i.ytimg.com/vi/DTkG4Hf3mjQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD80uFUMLezZo2Pw9_7L6OZ3tGrzw",
-          "video_id": "DTkG4Hf3mjQ"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/I/71wUvxvaiRL._RI_.jpg",
-          "movie_title": "अफलातून",
-          "movie_des": "Aflatoon (अफलातून) - Full Movie HD - Best Marathi Comedy Movie - Laxmikant Berde, Ashok Saraf",
-          "thumb_nail_image": "https://i.ytimg.com/vi/BSfhoZG-Fa8/maxresdefault.jpg",
-          "video_id": "BSfhoZG-Fa8"
-        }
-      ],
-      "Nilu Phulle": [
-        {
-          "id": "1",
-          "movie_img": "https://indianfilmhistory.com/admin_panel_new_dev/media1/files_i/15784651089031tw5rkcwj4.jpeg",
-          "movie_title": "ठकास महाठक",
-          "movie_des": "अशोक सराफ, निळू फुलेचा सुपरहिट मराठी चित्रपट 'ठकास महाठक' - Thakas Mahathak Full Movie - Nilu Phule",
-          "thumb_nail_image": "https://i.ytimg.com/vi/Xw926V7v3mU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADhRH3yY83OyqPtqoIQPsImprRCw",
-          "video_id": "Xw926V7v3mU"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BY2MwZmI1NmUtYTg1YS00ZTU1LTlmNmEtMjU5MjcxMDM1NGM1XkEyXkFqcGdeQXVyMzYxMTMwNzc@._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "एक गाव बारा भानगडी",
-          "movie_des": "एक गाव बारा भानगडी (१९६९) Full Marathi Movie | Ek Gaon Bara Bhangadi - Jayshree Gadkar, Arun Sarnaik",
-          "thumb_nail_image": "https://i.ytimg.com/vi/abFIAWPN1CY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3uW0q4lezdX0w75YBC0ojgh_PNA",
-          "video_id": "abFIAWPN1CY"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/I/71redrzmyYL._RI_.jpg",
-          "movie_title": "BIN KAMACHA NAVRA",
-          "movie_des": "BIN KAMACHA NAVRA - Full Length Marathi Comedy Movie HD | Ashok Saraf, Ranjana Deshmukh, Nilu Phule",
-          "thumb_nail_image": "https://i.ytimg.com/vi/i7PSa6M2nFE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz4m7b0yrxAF7LohpqbaaVB3SPRQ",
-          "video_id": "i7PSa6M2nFE"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://4.bp.blogspot.com/-He6EwQicynI/UbS2jKKqXcI/AAAAAAAAFyE/YDNKzSKAC0Q/s1600/harya_narya_zindabad.jpg",
-          "movie_title": "हऱ्या नाऱ्या झिंदाबाद",
-          "movie_des": "सुपरहिट मराठी चित्रपट 'हऱ्या नाऱ्या झिंदाबाद' - Harya Narya Zindabad Full Movie - Nilu Phule",
-          "thumb_nail_image": "https://i.ytimg.com/vi/pATypdhIeu4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtcJ4l_ZizTbVtCrb4Mj7GHRBWMA",
-          "video_id": "pATypdhIeu4"
-        }
-      ],
-      "Sachin Plgaonkar": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BZmRiNjBmZDUtMjc5YS00Mzk0LWEwNWYtYzkwMmYyNmExMzYxXkEyXkFqcGdeQXVyMTgwMjgwMjM@._V1_.jpg",
-          "movie_title": "अदला बदली",
-          "movie_des": "अदला बदली | Adla Badli | Full Marathi Movie HD | Ashok Saraf, Sachin Pilgaonkar, Aditi Bhagawat",
-          "thumb_nail_image": "https://i.ytimg.com/vi/lbRjaZR2lrk/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK8m1NUQ8xR9ACJw1Wui6CTeqGiw",
-          "video_id": "lbRjaZR2lrk"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/819aitwn9FL._RI_.jpg",
-          "movie_title": "Aayatya Gharat Gharoba",
-          "movie_des": "Aayatya Gharat Gharoba - Marathi Full Movie | Sachin Pilgaonkar, Ashok Saraf , Laxmikant Berde",
-          "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-          "video_id": "Gx0Vl-QDdho&list=PL_1QtFQWXb1GuB-CspD_-UW9ZI665VPC1"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://rukminim1.flixcart.com/image/416/416/av-media/movies/5/4/z/kunku-original-imadafhqzukkexuw.jpeg?q=70",
-          "movie_title": "Kunku",
-          "movie_des": "Kunku | Full Marathi Movie | Sachin, Supriya, Ajinkya Deo | Marathi Drama Movies",
-          "thumb_nail_image": "https://i.ytimg.com/an_webp/NP4S1lzvaKs/mqdefault_6s.webp?du=3000&sqp=CIHmlaIG&rs=AOn4CLDXy1eC2t12InJt06PoMgc-Xckheg",
-          "video_id": "NP4S1lzvaKs"
-        }
-      ]
-    },
-    "english": {
-      "actor_img": [
-        {
-          "actor_name": "All movoies",
-          "actor_img": "https://pbs.twimg.com/media/FevwhSjWAAAzNfz.jpg:large"
-        },
-        {
-          "actor_name": "2015 movies",
-          "actor_img": "https://www.liveabout.com/thmb/DNPhPFtAm2PDIFbcexbdNY2XG-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pop-music-57bce3863df78c87634ea806.jpg"
-        },
-        {
-          "actor_name": "2016 movies",
-          "actor_img": "https://img.freepik.com/free-vector/pink-equalizer-pattern-background-vector_53876-63145.jpg?w=2000"
-        },
-        {
-          "actor_name": "2017 movies",
-          "actor_img": "https://cdn.pixabay.com/photo/2021/09/01/10/43/music-6591030_1280.jpg"
-        },
-        {
-          "actor_name": "2018 movies",
-          "actor_img": "https://media.istockphoto.com/id/595158098/vector/movie-night-background-black-curtain-and-film.jpg?s=612x612&w=0&k=20&c=q594Od49pCzMFkYNA3lQ92PKgK1PVllV1oPqsiPbDr4="
-        },
-        {
-          "actor_name": "2019 movies",
-          "actor_img": "https://i.pinimg.com/originals/5a/b9/a2/5ab9a2c2a02278350d2cb2d5a16899b0.jpg"
-        },
-        {
-          "actor_name": "2020 movies",
-          "actor_img": "https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-fashion-movie-film-theme-background-poster-image_196478.jpg"
-        }
-      ],
-      "All movoies": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BY2ZjNjIwOWQtZTBjNS00MGY1LTg3YzctMjM2YjlmYjAzMmYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjI0ODc0NTI@._V1_.jpg",
-          "movie_title": "HACKER",
-          "movie_des": "HACKER | Hollywood English Movie Full Action HD Movie | Haylie Duff, Craig Stark, Dan Spector",
-          "thumb_nail_image": "https://i.ytimg.com/vi/g0q6v7mXoJw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDIpgH6H9cOIIciVHVh_yZ3oT6RQ",
-          "video_id": "g0q6v7mXoJw"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_.jpg",
-          "movie_title": "Beauty And The Beast",
-          "movie_des": "Beauty And The Beast (2009) | English Fantasy Film | Estella Warren, Rhett Giles",
-          "thumb_nail_image": "https://i.ytimg.com/vi/yp8PHybyHsc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw2bmwN4-Iky8cSP74I_Gb-FlEtw",
-          "video_id": "yp8PHybyHsc"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BNDI5MTc3NjYtMTc2Zi00Mjk4LThiNTYtZGZiMTRmODNkZTQ4XkEyXkFqcGdeQXVyNzgwNDExMjI@._V1_.jpg",
-          "movie_title": "Where Is My Home",
-          "movie_des": "Christian Movie | 'Where Is My Home' | True Story That Can Move People to Tears (English Full Movie)",
-          "thumb_nail_image": "https://i.ytimg.com/vi/moHa5xIOZ18/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCatOLRSg4YBJR8hw_K5kpGRJmfTg",
-          "video_id": "moHa5xIOZ18"
-        },
-        {
-          "id": "4",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BOWY1MDc4YmEtNGU5Zi00NzZkLWExNGYtODMxYzUxOTFjMWMyXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-          "movie_title": "The Long Night",
-          "movie_des": "The Long Night | Hollywood Full Hindi Dubbed Movies | Cassie Scerbo | Alexxis Lemire | Mason Dye",
-          "thumb_nail_image": "https://i.ytimg.com/vi/qaGj9600cA0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7E5YiUUZpLBAty8tepcngtjDBgw",
-          "video_id": "qaGj9600cA0"
-        },
-        {
-          "id": "5",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMjI2OTgyNTc0Ml5BMl5BanBnXkFtZTgwNDM1NTQxMTE@._V1_.jpg",
-          "movie_title": "NOAH",
-          "movie_des": "NOAH - Hollywood Movie| HD Quality | Russel Crowe | Emma Watson | Hindi Dubbed Version|",
-          "thumb_nail_image": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/08/26/2066122819637/NOAH_SAlone_16_9_1920x1080_1611067_1920x1080.jpg",
-          "video_id": "dAsCncSPM4c"
-        }
-      ],
-      "2015 movies": [
-        {
-          "id": "1",
-          "movie_img": "https://images.moviesanywhere.com/79c06e084d298db5814d65fa67fe2fe4/d14f615d-cb2b-4f14-94c8-21538d7dfd13.jpg?h=375&resize=fit&w=250",
-          "movie_title": "Tomorrowland",
-          "movie_des": "Tomorrowland ( 2015 Film ) Full Movie HD - Travel to the future.",
-          "thumb_nail_image": "https://i.ytimg.com/vi/_zwPDyRvGnQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDku6oJxq9zZeeCXasx-CO8dCEsLg",
-          "video_id": "_zwPDyRvGnQ"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMjM1MzUyMTk5MV5BMl5BanBnXkFtZTgwOTc2NzA0NDE@._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "Jurassic City",
-          "movie_des": "Jurassic City Full Hindi Dubbed Movie | Hollywood Hindi Dubbed Movies | Jurassic City (2015)",
-          "thumb_nail_image": "https://i.ytimg.com/vi/mVBLaYNdy8A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY96v0GXlNipxXjC-iLxJn3nXopA",
-          "video_id": "mVBLaYNdy8A"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://images.moviesanywhere.com/81c4345f739ece6eec33544e7cd024c6/4e5fd0bb-e6cd-4e5f-8c90-a31e8b2fa2f6.jpg",
-          "movie_title": "Spy 2015",
-          "movie_des": "Spy 2015 Comedy Hindi Dubbed Movie Full Hd",
-          "thumb_nail_image": "https://m.media-amazon.com/images/M/MV5BMTUyNjg0OTM0MF5BMl5BanBnXkFtZTgwNjQ2MTExNTE@._V1_.jpg",
-          "video_id": "hVMZ0DCGkVc"
-        }
-      ],
-      "2016 movies": [
-        {
-          "id": "1",
-          "movie_img": "https://i.ytimg.com/vi/r3ZXwB4QwRk/hqdefault.jpg",
-          "movie_title": "American Scary Thriller",
-          "movie_des": "New Horror Movies 2016 Full Movie English American Scary Thriller Movies 2016 1080p",
-          "thumb_nail_image": "https://i.ytimg.com/vi/r3ZXwB4QwRk/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-RZIYPKCbSPE24l7GGsFrVEQHqQ",
-          "video_id": "r3ZXwB4QwRk"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://c8.alamy.com/comp/P9A4T5/doctor-strange-2016-directed-by-scott-derrickson-character-poster-showing-dr-stephen-strange-played-by-benedict-cumberbatch-P9A4T5.jpg",
-          "movie_title": "Doctor Strange",
-          "movie_des": "Doctor Strange 2016 Full Movie Hindi Dubbed Movie | Benedict Cumberbatch, Karl Mordo, Rachel McAdams",
-          "thumb_nail_image": "https://i.ytimg.com/vi/pFEBH9zNEVA/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUyHS5IHeu4PcgrKXSA32GgMTTnw",
-          "video_id": "pFEBH9zNEVA"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMTA3MDQzNTQyNTZeQTJeQWpwZ15BbWU4MDk4MDU1Nzcx._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "Stray" ,
-          "movie_des": "Stray (2016) | Thriller Movie | Serial Killer Movie | Full Movie",
-          "thumb_nail_image": "https://i.ytimg.com/vi/Lcqh25yLP7A/maxresdefault.jpg",
-          "video_id": "Lcqh25yLP7A"
-        }
-      ],
-      "2017 movies": [
-        {
-          "id": "1",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMTY2NzQwNjY4M15BMl5BanBnXkFtZTgwOTM2MzkzMzI@._V1_.jpg",
-          "movie_title": "Jeepers Creepers 3",
-          "movie_des": "English best movie Jeepers Creepers 3 2017",
-          "thumb_nail_image": "https://i.ytimg.com/vi/_mwHcabAQSg/hqdefault.jpg",
-          "video_id": "_mwHcabAQSg"
-        },
-        {
-          "id": "2",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BNzZhZjJlNzMtZmVlNi00MTIxLTg3OTMtMTI2NTVkYWQ4NDQyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-          "movie_title": "Revenge",
-          "movie_des": "Revenge || Full Movie || @Comicalearl",
-          "thumb_nail_image": "https://i.ytimg.com/vi/gR0JQfBCtQ4/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKLc9_B3ioeZ_YRC-lVBQZdwiafQ",
-          "video_id": "gR0JQfBCtQ4"
-        },
-        {
-          "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMmM4NWVlOTctZjk3Mi00MDExLWFjM2MtZGJkYWUyZWMzZTQ0XkEyXkFqcGdeQXVyMTUzNzYwMzA@._V1_.jpg",
-          "movie_title": "The Punishment",
-          "movie_des": "The Punishment | DRAMA | Full Movie with English Subtitles",
-          "thumb_nail_image": "https://i.ytimg.com/vi/oUNsToD3jrA/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRTooW9Bi5JT9RUoDfNKSBDN8XjA",
-          "video_id": "oUNsToD3jrA"
-        }
-      ],
-   "2018 movies": [
-     {
-       "id": "1",
-       "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-       "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-       "video_id": "tPXYWRGNl7s"
-     },
-     {
-       "id": "2",
-       "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-       "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-       "video_id": "tPXYWRGNl7s"
-     },
-     {
-       "id": "3",
-       "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-       "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-       "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-       "video_id": "tPXYWRGNl7s"
-     }
-   ],
-   "2019 movies": [
-     {
-       "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ],
-       "2020 movies": [
-         {
-           "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ]
-     },
-     "web series": {
-       "actor_img": [
-         {
-           "actor_name": "Adulting",
-           "actor_img": "https://production.listennotes.com/podcasts/web-series-music/i-got-a-plan-whip-it-shake-au15zwr9QS6-uGAlFkPhBI-.1400x1400.jpg"
-         },
-         {
-           "actor_name": "2BY3",
-           "actor_img": "https://m.media-amazon.com/images/M/MV5BMzdlODRmZTktZDJhYy00MjZmLWFmMmQtYzg4NWJmZjgxNzk1XkEyXkFqcGdeQXVyMTAzNTQ5NzQ0._V1_FMjpg_UX1000_.jpg"
-         },
-         {
-           "actor_name": "Big Borrow Steal",
-           "actor_img": "https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2013/03/20/beg.jpg"
-         },
-         {
-           "actor_name": "Boys will Be Boys",
-           "actor_img": "https://m.media-amazon.com/images/M/MV5BNGU2ZDVkZWMtYjI5Zi00NjQ0LTgwNTktOTM5ZjE3MTY5MDFjXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_.jpg"
-         },
-         {
-           "actor_name": "Bin Bulaye Mehmaan - S1",
-           "actor_img": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/bin%20bulaye%20mehmaan-1675940235120.jpg"
-         },
-         {
-           "actor_name": "Bin Bulaye Mehmaan - S2",
-           "actor_img": "https://indianfilmhistory.com/admin_panel_new_dev/media1/files_i/15577216805539vhqmeyw8g.jpeg"
-         },
-         {
-           "actor_name": "Bin Bulaye Mehmaan - S3",
-           "actor_img": "https://i.ytimg.com/vi/B6bE_ijPyoU/maxresdefault.jpg"
-         }
-       ],
-       "Adulting": [
-         {
-           "id": "1",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         }
-       ],
-       "2BY3": [
-         {
-           "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ],
-       "Big Borrow Steal": [
-         {
-           "id": "1",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         }
-       ],
-       "Boys will Be Boys": [
-         {
-           "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ],
-       "Bin Bulaye Mehmaan - S1": [
-         {
-           "id": "1",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "tPXYWRGNl7s"
-         }
-       ],
-       "Bin Bulaye Mehmaan - S2": [
-         {
-           "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ],
-       "202 movies": [
-         {
-           "id": "1",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "2",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         },
-         {
-           "id": "3",
-           "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
-           "movie_title": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "movie_des": "Baadshah - Blockbuster Bollywood Hindi HD Film| Shahrukh Khan, Twinkle Khanna, Johnny Lever",
-           "thumb_nail_image": "https://i.ytimg.com/vi/KLucs7B8JDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQWHPWbIxorYaeWv69w0eY6FTAA",
-           "video_id": "KLucs7B8JDA"
-         }
-       ]
     }
   }
 }
