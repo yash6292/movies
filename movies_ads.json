@@ -1,7 +1,7 @@
 {
     "status": "success",
     "data": {
-        "adsClickLimit": "2",
+        "adsClickLimit": "3",
         "game_title": "All HD Movies: Watch Online",
         "game_url": "https://play.google.com/store/apps/details?id=com.movies.allhdmovies",
         "game_version": "1.0.1",
