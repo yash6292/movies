@@ -1815,7 +1815,30 @@
         }
       ],
       "202 movies": [
-        
+        {
+          "id": "1",
+          "movie_img": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/bin%20bulaye%20mehmaan-1675940235120.jpg",
+          "movie_title": "Bin Bulaye Mehmaan - S1 (Official Teaser)",
+          "movie_des": "Bin Bulaye Mehmaan | Official Teaser | Making | Comedy Web Series | SIT",
+          "thumb_nail_image": "BIN BULAYE MEHMAN | S1 E4 | “THE BIG FIGHT” Finale | Comedy WebserieSIT",
+          "video_id": "Cb47BT6yUEk"
+        },
+        {
+          "id": "2",
+          "movie_img": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/bin%20bulaye%20mehmaan-1675940235120.jpg",
+          "movie_title": "Bin Bulaye Mehmaan - S1E1",
+          "movie_des": "BIN BULAYE MEHMAN | S1E1 | Ek Myan Do Talwarein | Comedy Web Series | SIT",
+          "thumb_nail_image": "https://i.ytimg.com/vi/IWZB0zxO_ps/maxresdefault.jpg",
+          "video_id": "IWZB0zxO_ps"
+        },
+        {
+          "id": "3",
+          "movie_img": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/bin%20bulaye%20mehmaan-1675940235120.jpg",
+          "movie_title": "Bin Bulaye Mehmaan - S1E2",
+          "movie_des": "BIN BULAYE MEHMAN | S1 E2 | It’s My Choice! | Comedy Webseries | SIT",
+          "thumb_nail_image": "https://i.ytimg.com/vi/AxlOYpt2QL8/mqdefault.jpg",
+          "video_id": "AxlOYpt2QL8"
+        }
       ]
     }
   }
