@@ -61,12 +61,13 @@
         "isShow24": true,
         "isShow25": true,
         "isShow26": true,
-        "open_ad_id": "7968d3f0efb536d6abcd",
-        "inter_normal_ad_id": "568b303ce7aab4d0abcd",
-        "inter_mediation_ad_id": "568b303ce7aab4d0abcd",
-        "mrec_ad_id": "d32fa65ded4988d7abec",
-        "banner_normal_ad_id": "c713e6ddf0dee086abcd",
-        "banner_mediation_ad_id": "c713e6ddf0dee086abcd"
+        "open_ad_id": "",
+        "inter_normal_ad_id": "",
+        "inter_mediation_ad_id": "",
+        "mrec_ad_id": "",
+        "banner_normal_ad_id": "",
+        "banner_mediation_ad_id": ""
+
     },
     "ads_data": {
         "home_page": {
